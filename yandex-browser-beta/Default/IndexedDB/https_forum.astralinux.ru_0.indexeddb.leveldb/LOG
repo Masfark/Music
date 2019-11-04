@@ -1,0 +1,18 @@
+2019/11/04-15:11:58.212 101e Reusing MANIFEST /home/masfark/.config/yandex-browser-beta/Default/IndexedDB/https_forum.astralinux.ru_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/04-15:11:58.212 101e Recovering log #40
+2019/11/04-15:11:58.212 101e Reusing old log /home/masfark/.config/yandex-browser-beta/Default/IndexedDB/https_forum.astralinux.ru_0.indexeddb.leveldb/000040.log 
+2019/11/04-15:12:06.148 101e Current memtable full; waiting...
+2019/11/04-15:12:06.148 1141 Level-0 table #45: started
+2019/11/04-15:12:06.151 1141 Level-0 table #45: 420 bytes OK
+2019/11/04-15:12:06.155 1141 Delete type=0 #40
+2019/11/04-15:12:06.156 1141 Level-0 table #47: started
+2019/11/04-15:12:06.156 1141 Level-0 table #47: 0 bytes OK
+2019/11/04-15:12:06.160 1141 Delete type=0 #44
+2019/11/04-15:12:06.161 1141 Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 76 : 1
+2019/11/04-15:12:06.161 1141 Compacting 1@0 + 1@1 files
+2019/11/04-15:12:06.164 1141 Generated table #48@0: 9 keys, 655 bytes
+2019/11/04-15:12:06.164 1141 Compacted 1@0 + 1@1 files => 655 bytes
+2019/11/04-15:12:06.168 1141 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/04-15:12:06.168 1141 Delete type=2 #45
+2019/11/04-15:12:06.168 1141 Delete type=2 #42
+2019/11/04-15:12:06.169 1141 Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 76 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)

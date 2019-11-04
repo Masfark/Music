@@ -1,0 +1,31 @@
+{
+   "author": "http://app.prntscr.com/",
+   "background": {
+      "persistent": false,
+      "scripts": [ "libs/jquery-1.11.1.min.js", "event.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "19": "img/icon19.png",
+         "38": "img/icon38.png"
+      },
+      "default_title": "__MSG_screenshotplugin_default_title__"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "__MSG_screenshotplugin_short_description__",
+   "icons": {
+      "128": "img/icon128.png",
+      "19": "img/icon19.png",
+      "24": "img/icon24.png",
+      "256": "img/icon256.png",
+      "32": "img/icon32.png",
+      "38": "img/icon38.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjskXiiMu2F4nyM6eFF1TKxh8cuNg9QDPcV6jMV4mE2sHhUFUqsF69E4s3e9GCR16AcESTIxidFLB0P0arRKrUu1+caEcnhrcT+exZ6V+QrKbvkvABx3+G8pbmOj2k7k9GTY5THuULNwFLCc5vtbJeljpb4LjRao4iWej8/uJxuYc4agP/gxTnPj+qdcwM2quYkwrGh5cuJov9zxOyxqWMufgZnOUoOlkIZfBKUpqMpma4xfpR1p8X+ruVC1Fu2kY4vzgdpV1kGW7FYekZSBBxw0p9aT2u0L3nfc2GeLQBEb/ithepN45NVZAYM3x0TFtQWuYW5NGWm65civ0siABEwIDAQAB",
+   "manifest_version": 2,
+   "name": "__MSG_screenshotplugin_name__",
+   "permissions": [ "\u003Call_urls>", "tabs", "activeTab", "storage", "unlimitedStorage", "notifications", "clipboardWrite", "downloads", "tabCapture" ],
+   "update_url": "https://browser-api.store.yandex.net/crx/v1/update",
+   "version": "6.1.8.3"
+}

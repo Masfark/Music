@@ -1,0 +1,176 @@
+{
+    "background": {
+        "page": "background.html",
+        "persistence": true
+    },
+    "browser_action": {
+        "default_icon": "icons/icon.48x48.png",
+        "default_popup": "index.html",
+        "default_title": "\u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0443\u0437\u044b\u043a\u0430"
+    },
+    "commands": {
+        "dislike": {
+            "description": "\u0414\u0438\u0437\u043b\u0430\u0439\u043a",
+            "global": true
+        },
+        "like": {
+            "description": "\u041b\u0430\u0439\u043a",
+            "global": true
+        },
+        "next": {
+            "description": "\u0412\u043f\u0435\u0440\u0435\u0434",
+            "global": true,
+            "suggested_key": {
+                "default": "MediaNextTrack"
+            }
+        },
+        "play": {
+            "description": "\u0418\u0433\u0440\u0430\u0442\u044c/\u041f\u0430\u0443\u0437\u0430",
+            "global": true,
+            "suggested_key": {
+                "default": "MediaPlayPause"
+            }
+        },
+        "prev": {
+            "description": "\u041d\u0430\u0437\u0430\u0434",
+            "global": true,
+            "suggested_key": {
+                "default": "MediaPrevTrack"
+            }
+        }
+    },
+    "content_scripts": [
+        {
+            "js": [
+                "js/csUnity.js"
+            ],
+            "matches": [
+                "*://music.yandex.ru/*",
+                "*://radio.yandex.ru/*",
+                "*://music.yandex.ua/*",
+                "*://radio.yandex.ua/*",
+                "*://music.yandex.kz/*",
+                "*://radio.yandex.kz/*",
+                "*://music.yandex.by/*",
+                "*://radio.yandex.by/*",
+                "*://*.totoro.yandex.ru/*",
+                "*://*.music.yandex.ru/*"
+            ],
+            "run_at": "document_start"
+        },
+        {
+            "js": [
+                "config/deezer.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://www.deezer.com/*"
+            ]
+        },
+        {
+            "js": [
+                "config/google.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://play.google.com/music/*"
+            ]
+        },
+        {
+            "js": [
+                "config/lastfm.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://www.last.fm/*"
+            ]
+        },
+        {
+            "js": [
+                "config/mail.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://my.mail.ru/music/*"
+            ]
+        },
+        {
+            "js": [
+                "config/ololo.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://pesni.fm/*",
+                "*://ololo.fm/*"
+            ]
+        },
+        {
+            "js": [
+                "config/pleer.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://pleer.com/*"
+            ]
+        },
+        {
+            "js": [
+                "config/soundcloud.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://soundcloud.com/*"
+            ]
+        },
+        {
+            "js": [
+                "config/vk.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://vk.com/*"
+            ]
+        },
+        {
+            "js": [
+                "config/zv.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://zv.fm/*"
+            ]
+        },
+        {
+            "js": [
+                "config/zvooq.conf.js",
+                "js/csController.js"
+            ],
+            "matches": [
+                "*://zvooq.ru/*"
+            ]
+        }
+    ],
+    "content_security_policy": "script-src 'self' https://music.yandex.ru/ https://music.yandex.ru https://yastatic.net/ https://storage.mds.yandex.net/; object-src 'self' https://music.yandex.ru/ https://music.qa.yandex.ru https://storage.mds.yandex.net",
+    "description": "\u041f\u0443\u043b\u044c\u0442 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f \u0434\u043b\u044f \u0432\u0430\u0448\u0435\u0439 \u043c\u0443\u0437\u044b\u043a\u0438",
+    "homepage_url": "https://music.yandex.ru",
+    "icons": {
+        "128": "icons/icon.128x128.png",
+        "48": "icons/icon.48x48.png"
+    },
+    "manifest_version": 2,
+    "minimum_chrome_version": "26",
+    "name": "\u042f\u043d\u0434\u0435\u043a\u0441.\u041c\u0443\u0437\u044b\u043a\u0430",
+    "options_page": "standalone/settings/index.html",
+    "permissions": [
+        "tabs",
+        "storage",
+        "cookies",
+        "http://*/*",
+        "https://*/*"
+    ],
+    "update_url": "https://browser-api.store.yandex.net/crx/v1/update",
+    "version": "0.0.473.1",
+    "web_accessible_resources": [
+        "js/unity.js"
+    ]
+}

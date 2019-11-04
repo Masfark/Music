@@ -1,0 +1,6 @@
+2019/11/04-12:37:19.832 3131 Reusing MANIFEST /home/masfark/.config/yandex-browser-beta/Default/Sync Data/LevelDB/MANIFEST-000001
+2019/11/04-12:37:19.832 3131 Recovering log #18
+2019/11/04-12:37:19.853 3131 Reusing old log /home/masfark/.config/yandex-browser-beta/Default/Sync Data/LevelDB/000018.log 
+2019/11/04-12:38:21.708 33f2 Level-0 table #23: started
+2019/11/04-12:38:21.724 33f2 Level-0 table #23: 101970 bytes OK
+2019/11/04-12:38:21.733 33f2 Delete type=0 #18

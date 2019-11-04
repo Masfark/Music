@@ -1,0 +1,18 @@
+2019/11/04-15:11:37.991 1122 Reusing MANIFEST /home/masfark/.config/yandex-browser-beta/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/MANIFEST-000001
+2019/11/04-15:11:37.991 1122 Recovering log #52
+2019/11/04-15:11:38.016 1122 Reusing old log /home/masfark/.config/yandex-browser-beta/Default/IndexedDB/chrome-extension_hnmpcagpplmpfojmgmnngilcnanddlhb_0.indexeddb.leveldb/000052.log 
+2019/11/04-15:11:38.254 101e Current memtable full; waiting...
+2019/11/04-15:11:38.272 1141 Level-0 table #57: started
+2019/11/04-15:11:38.277 1141 Level-0 table #57: 2450 bytes OK
+2019/11/04-15:11:38.322 1141 Delete type=0 #52
+2019/11/04-15:11:38.322 1141 Level-0 table #59: started
+2019/11/04-15:11:38.322 1141 Level-0 table #59: 0 bytes OK
+2019/11/04-15:11:38.330 1141 Delete type=0 #56
+2019/11/04-15:11:38.330 1141 Manual compaction at level-0 from '\x00\x0c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x0c\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1699 : 1
+2019/11/04-15:11:38.330 1141 Compacting 1@0 + 1@1 files
+2019/11/04-15:11:38.349 1141 Generated table #60@0: 426 keys, 36427 bytes
+2019/11/04-15:11:38.349 1141 Compacted 1@0 + 1@1 files => 36427 bytes
+2019/11/04-15:11:38.353 1141 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/11/04-15:11:38.353 1141 Delete type=2 #54
+2019/11/04-15:11:38.353 1141 Delete type=2 #57
+2019/11/04-15:11:38.353 1141 Manual compaction at level-0 from '\x00\x0c\x01\x1f\x01\x0b\x00h\x00e\x00l\x00l\x00o\x00 \x00w\x00o\x00r\x00l\x00d\x00\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 1699 : 1 .. '\x00\x0d\x00\x00\x00' @ 0 : 0; will stop at (end)

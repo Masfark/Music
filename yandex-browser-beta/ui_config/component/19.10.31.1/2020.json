@@ -1,0 +1,935 @@
+{
+  "variables" : {
+    "top_light_background": "#fff",
+    "top_dark_background": "#45464F",
+    "top_protect_background": "#747474",
+    // Dark button foreground colors.
+    "dark_fg_normal" : "#000",
+    "dark_fg_hovered" : "#000",
+    "dark_fg_pressed" : "#000",
+    "dark_fg_disabled" : "color(#000 a(.35))",
+    // Dark button background colors.
+    "dark_bg_normal" : "#0000",
+    "dark_bg_hovered" : "color(#000 a(.1))",
+    "dark_bg_pressed" : "color(#000 a(.4))",
+    // Light button foreground colors.
+    "light_fg_normal" : "#fff",
+    "light_fg_hovered" : "#fff",
+    "light_fg_pressed" : "#fff",
+    "light_fg_disabled" : "4DFFFFFF",
+    // Light button background colors.
+    "light_bg_normal" : "#0000",
+    "light_bg_hovered" : "color(#fff a(.15))",
+    "light_bg_pressed" : "color(#fff a(.2))",
+
+    "full_aqua": "#56B9D1",
+    "full_blue": "#4794EB",
+    "full_green": "#7EAE1F",
+    "full_orange": "#F38A12",
+    "color_purple": "#C27DDB",
+    "full_purple": "#BC5EDF",
+    "full_red": "#F46666",
+    "full_yellow": "#FFCC00",
+  },
+  "style_sheet":
+  [
+    {
+      "selector": ":b2020#tabs_top_panel#tabs_top_panel",
+      "background": "#0000",
+    },
+    {
+      "selector": ":b2020#top_container#top_container",
+      "use_blur": false,
+      "background": "#0000",
+    },
+
+    {
+      "selector": [":b2020#toolbar_panel",
+                   ":b2020#bookmarks_panel",
+                   ":b2020#infobar_panel"],
+      "background !imp": ["var(top_light_background)"],
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel:where([theme=dark]:not([state=ntp][popup=tablo]))",
+        ":b2020#bookmarks_panel:where([theme=dark]:not([state=ntp][popup=tablo]))",
+        ":b2020#infobar_panel:where([theme=dark]:not([state=ntp][popup=tablo]))",
+      ],
+      "background !imp": ["var(top_dark_background)"],
+    },
+
+/***********************  HeadPanels color theme  *****************************/
+    {
+      "selector": [
+        ":b2020#toolbar_panel[theme=aqua]:where([tint=color], [tint=full])",
+        ":b2020#bookmarks_panel[theme=aqua]:where([tint=color], [tint=full])",
+        ":b2020#infobar_panel[theme=aqua]:where([tint=color], [tint=full])",
+      ],
+      "background !imp": "var(full_aqua)",
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel[theme=blue]:where([tint=color], [tint=full])",
+        ":b2020#bookmarks_panel[theme=blue]:where([tint=color], [tint=full])",
+        ":b2020#infobar_panel[theme=blue]:where([tint=color], [tint=full])",
+      ],
+      "background !imp": "var(full_blue)",
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel[theme=green]:where([tint=color], [tint=full])",
+        ":b2020#bookmarks_panel[theme=green]:where([tint=color], [tint=full])",
+        ":b2020#infobar_panel[theme=green]:where([tint=color], [tint=full])",
+      ],
+      "background !imp": "var(full_green)",
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel[theme=orange]:where([tint=color], [tint=full])",
+        ":b2020#bookmarks_panel[theme=orange]:where([tint=color], [tint=full])",
+        ":b2020#infobar_panel[theme=orange]:where([tint=color], [tint=full])",
+      ],
+      "background !imp": "var(full_orange)",
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel[theme=purple]:where([tint=color], [tint=full])",
+        ":b2020#bookmarks_panel[theme=purple]:where([tint=color], [tint=full])",
+        ":b2020#infobar_panel[theme=purple]:where([tint=color], [tint=full])",
+      ],
+      "background !imp": "var(full_purple)",
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel[theme=red]:where([tint=color], [tint=full])",
+        ":b2020#bookmarks_panel[theme=red]:where([tint=color], [tint=full])",
+        ":b2020#infobar_panel[theme=red]:where([tint=color], [tint=full])",
+      ],
+      "background !imp": "var(full_red)",
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel[theme=yellow]:where([tint=color], [tint=full])",
+        ":b2020#bookmarks_panel[theme=yellow]:where([tint=color], [tint=full])",
+        ":b2020#infobar_panel[theme=yellow]:where([tint=color], [tint=full])",
+      ],
+      "background !imp": "var(full_yellow)",
+    },
+
+    {
+      "selector": [
+        ":b2020#toolbar_panel:is([state=ntp], :sly_zen)",
+        ":b2020#bookmarks_panel:is([state=ntp], :sly_zen)",
+        ":b2020#infobar_panel:is([state=ntp], :sly_zen)",
+      ],
+      "background !imp": ["#0000"],
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel[state=protected]",
+        ":b2020#bookmarks_panel[state=protected]",
+        ":b2020#infobar_panel[state=protected]",
+      ],
+      "background !imp": ["var(top_protect_background)"],
+    },
+    {
+      "selector": [
+        ":b2020#toolbar_panel:incognito:not([state=ntp],[state=protected])",
+        ":b2020#bookmarks_panel:incognito:not([state=ntp],[state=protected])",
+        ":b2020#infobar_panel:incognito:not([state=ntp],[state=protected])",
+      ],
+      "background !imp": ["var(top_light_background)"],
+    },
+
+    {
+     "selector": [
+       ":b2020#flute",
+       ":b2020#flute:where([state=ntp], :sly_zen, [state=protected])",
+     ],
+      "background !imp": "#0000",
+    },
+
+//************************  Flute buttonn *************************************/
+    {
+     "selector": ":b2020#flute > button",
+      "border_width !imp": [4, 6, 4, 6],
+      "paint_on_border !imp" : false,
+    },
+
+    {
+      "selector": [
+        ":b2020#window_controls > button",
+        ":b2020#bookmarks_panel > button",
+        ":b2020#toolbar_panel > button",
+        ":b2020#flute > button",
+      ],
+      "background !imp": ["var(dark_bg_normal)", "var(dark_bg_hovered)", "var(dark_bg_pressed)", "#0000"],
+      "foreground !imp": ["var(dark_fg_normal)", "var(dark_fg_hovered)", "var(dark_fg_pressed)", "var(dark_fg_disabled)"],
+    },
+    {
+      "selector": [
+        ":b2020#bookmarks_panel > button",
+        ":b2020#toolbar_panel > button",
+      ],
+      "background !imp": ["var(dark_bg_normal)", "var(dark_bg_hovered)", "var(dark_bg_pressed)", "#0000"],
+      "foreground !imp": ["color(#000 a(.8))", "color(#000 a(.8))", "color(#000 a(.8))", "var(dark_fg_disabled)"],
+    },
+    {
+      "selector": [
+        ":b2020#window_controls > button:where(:dark_wp_top)",
+        ":b2020#window_controls > button:where([theme=dark]:not([state=ntp], :sly_zen))",
+        ":b2020#toolbar_panel > button:where(:dark_wp_top:is([state=ntp], :sly_zen))",
+        ":b2020#toolbar_panel > button:where([theme=dark]:not([state=ntp], :sly_zen))",
+        ":b2020#bookmarks_panel > button:where(:dark_wp_top:is([state=ntp], :sly_zen))",
+        ":b2020#bookmarks_panel > button:where([theme=dark]:not([state=ntp], :sly_zen))",
+        ":b2020#flute > button:where(:dark_wp_top)",
+        ":b2020#flute > button:where([theme=dark]:not([state=ntp], :sly_zen))",
+      ],
+     "background !imp": ["var(light_bg_normal)", "var(light_bg_hovered)", "var(light_bg_pressed)", "#0000"],
+     "foreground !imp": ["var(light_fg_normal)", "var(light_fg_hovered)", "var(light_fg_pressed)", "var(light_fg_disabled)"],
+    },
+    {
+      "selector": ":b2020#window_controls > :where(#incognito_profile)",
+      "foreground": "var(light_fg_normal)",
+    },
+    {
+      "selector": [
+        ":b2020#blurred_wallpaper",
+        ":b2020#blurred_wallpaper[state=protected]:not(:incognito)",
+      ],
+      "use_custom_background": true, // If true, draw wallpaper blured images and switch off |background| color.
+      "blur_radius": 10,
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper:where([theme=dark])",
+      "use_custom_background": false,
+      "background": "#242630",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper:is([state=ntp], :sly_zen):not(:incognito)",
+      "use_custom_background !imp": true,
+    },
+    {
+      "selector": ":b2020#window_controls > #win_close",
+      "background !imp": ["#0000","ff4d4d", "ff0000"],
+    },
+
+  //*******************  Flute buttons colored theme    **************************/
+    {
+      "selector": [
+        ":b2020#flute > button:is([tint=color], [tint=half], [tint=light]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#window_controls > button:is([tint=color], [tint=half], [tint=light]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+     "background !imp": ["var(dark_bg_normal)", "var(dark_bg_hovered)", "var(dark_bg_pressed)", "#0000"],
+     "foreground !imp": ["var(dark_fg_normal)", "var(dark_fg_hovered)", "var(dark_fg_pressed)", "var(dark_fg_disabled)"],
+    },
+    {
+      "selector": [
+        ":b2020#flute > button[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#flute > button[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#flute > button[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+        ":b2020#window_controls > button[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#window_controls > button[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#window_controls > button[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+      ],
+      "background !imp": ["var(light_bg_normal)", "var(light_bg_hovered)", "var(light_bg_pressed)", "#0000"],
+      "foreground !imp": ["var(light_fg_normal)", "var(light_fg_hovered)", "var(light_fg_pressed)", "var(light_fg_disabled)"],
+    },
+
+    {
+      "selector": [
+        ":b2020#bookmarks_panel > button[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#bookmarks_panel > button[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#toolbar_panel > button[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#toolbar_panel > button[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": "#fff",
+    },
+    {
+      "selector": [
+        ":b2020#bookmarks_panel > button:is([tint=full], [tint=color])[theme=yellow]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#toolbar_panel > button:is([tint=full], [tint=color])[theme=yellow]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": "#000",
+    },
+
+    {
+      "selector": [
+        ":b2020#bookmarks_panel > button:incognito",
+        ":b2020#toolbar_panel > button:incognito",
+      ],
+     "background !imp": ["var(dark_bg_normal)", "var(dark_bg_hovered)", "var(dark_bg_pressed)", "#0000"],
+     "foreground !imp": ["var(dark_fg_normal)", "var(dark_fg_hovered)", "var(dark_fg_pressed)", "#f00"],
+    },
+    {
+      "selector": [
+        ":b2020#window_controls > button:incognito",
+        ":b2020#flute > button:incognito",
+        ":b2020#bookmarks_panel > button[state=protected]",
+        ":b2020#toolbar_panel > button[state=protected]",
+        ":b2020#bookmarks_panel > button:incognito[state=ntp]",
+        ":b2020#toolbar_panel > button:incognito[state=ntp]",
+      ],
+     "background !imp": ["var(light_bg_normal)", "var(light_bg_hovered)", "var(light_bg_pressed)", "#0000"],
+     "foreground !imp": ["var(light_fg_normal)", "var(light_fg_hovered)", "var(light_fg_pressed)", "var(light_fg_disabled)"],
+    },
+    {
+      "selector": ":b2020#toolbar_panel > #ya_logo",
+      "background !imp": [],
+    },
+
+    /*********************  Blurred wallpaper: Color theme  *******************/
+    {
+      "selector": [
+        ":b2020#blurred_wallpaper[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#blurred_wallpaper[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#blurred_wallpaper[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#blurred_wallpaper[tint=light]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "use_custom_background": false,
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[tint=full]",
+      "background": "#2B2B2B"
+    },
+
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=aqua][tint=color]",
+      "background": "#1F8FAB"
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=blue][tint=color]",
+      "background": "#296CB8"
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=orange][tint=color]",
+      "background": "#D1661A"
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=green][tint=color]",
+      "background": "#658724"
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=purple][tint=color]",
+      "background": "#935EA8"
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=red][tint=color]",
+      "background": "#BF4848"
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=yellow][tint=color]",
+      "background": "#F4A825"
+    },
+        {
+      "selector": ":b2020#blurred_wallpaper[theme=aqua][tint=light]",
+      "background": "#DAF1F6",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=blue][tint=light]",
+      "background": "#D1E5FB",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=green][tint=light]",
+      "background": "#E1F1C2",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=orange][tint=light]",
+      "background": "#FFE7D6",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=purple][tint=light]",
+      "background": "#F5E3FB",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=red][tint=light]",
+      "background": "#FBDADA",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=yellow][tint=light]",
+      "background": "#F9EEBF",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=aqua][tint=half]",
+      "background": "#9EDEEE",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=blue][tint=half]",
+      "background": "#6CA9EF",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=green][tint=half]",
+      "background": "#B8D47F",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=orange][tint=half]",
+      "background": "#F5A141",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=purple][tint=half]",
+      "background": "#CE97E2",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=red][tint=half]",
+      "background": "#F68585",
+    },
+    {
+      "selector": ":b2020#blurred_wallpaper[theme=yellow][tint=half]",
+      "background": "#FFD633",
+    },
+
+    {
+      "selector": ":b2020#blurred_wallpaper:incognito",
+      "use_custom_background": false,
+      "background !imp": "#505050",
+    },
+
+    /*******************************  Tab strip     ***************************/
+    {
+      "selector": ":b2020#custo_tab",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["#0000", "#0000", "color(#fff a(0.4))", "#0000"],
+      "border_color !imp": "color(#000 a(.1))",
+    },
+    {
+      "selector": ":b2020#custo_tab:where(:dark_wp_top)",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["#0000", "#0000", "color(#fff a(0.25))", "#0000"],
+      "border_color !imp": "color(#fff a(.4))",
+    },
+
+    {
+      "selector": ":b2020#custo_tab:is([tint=color], [tint=half], [tint=light]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "border_color !imp": "color(#000 a(.1))",
+    },
+    {
+      "selector": [
+        ":b2020#custo_tab[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#custo_tab[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#custo_tab[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",],
+      "border_color !imp": "color(#fff a(.4))",
+    },
+
+    {
+      "selector": ":b2020#custo_tab:where([theme=dark]:not([state=ntp], :sly_zen))",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["#0000", "#0000", "color(#fff a(0.25))", "#0000"],
+      "border_color !imp": "color(#fff a(.2))",
+    },
+    {
+      "selector": ":b2020#custo_tab:incognito",
+      "border_color !imp": "color(#fff a(.4))",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(top_light_background)", "var(top_light_background)", "#0000", "#0000"],
+    },
+
+    /***********************  Active tab color theme  *************************/
+    {
+      "selector": ":b2020#custo_tab.active_look:where([theme=dark])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["#51525A", "var(top_dark_background)", "#0000", "#0000"],
+    },
+
+    {
+      "selector": ":b2020#custo_tab.active_look[theme=aqua]:where([tint=color], [tint=full])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(full_aqua)", "var(full_aqua)", "#0000", "#0000"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look[theme=blue]:where([tint=color], [tint=full])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(full_blue)", "var(full_blue)", "#0000", "#0000"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look[theme=green]:where([tint=color], [tint=full])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(full_green)", "var(full_green)", "#0000", "#0000"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look[theme=orange]:where([tint=color], [tint=full])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(full_orange)", "var(full_orange)", "#0000", "#0000"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look[theme=purple]:where([tint=color], [tint=full])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(full_purple)", "var(full_purple)", "#0000", "#0000"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look[theme=red]:where([tint=color], [tint=full])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(full_red)", "var(full_red)", "#0000", "#0000"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look[theme=yellow]:where([tint=color], [tint=full])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(full_yellow)", "var(full_yellow)", "#0000", "#0000"],
+    },
+
+    {
+      "selector": ":b2020#custo_tab.active_look[state=protected]",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(top_protect_background)", "var(top_protect_background)", "#0000", "#0000"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look:sly_zen",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["color(#000 a(.07))", "color(#000 a(.07))", "color(#000 a(.07))", "var(tab_background_color)"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look:sly_zen:dark_wp_top",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["color(#fff a(.1))", "color(#fff a(.1))", "color(#fff a(.05))", "var(tab_background_color)"],
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look:incognito:not([state=protected])",
+      // [background_color, background_color, hover_color, fill_color]
+      "background !imp": ["var(top_light_background)", "var(top_light_background)", "#0000", "#0000"],
+    },
+
+    {
+      "selector": ":b2020#tab_label",
+      "foreground !imp": "#000",
+    },
+    {
+      "selector": ":b2020#tab_label:where(:dark_wp_top)",
+      "foreground !imp": "#fff",
+    },
+    {
+      "selector": ":b2020#tab_label:where([theme=dark]:not([state=ntp], :sly_zen))",
+      "foreground !imp": "color(#fff a(0.5))",
+    },
+    {
+      "selector": ":b2020#tab_label:is([tint=half], [tint=light], [tint=color]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": "color(#000 a(0.4))",
+    },
+    {
+      "selector": [
+        ":b2020#tab_label[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#tab_label[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#tab_label[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+      ],
+      "foreground !imp": "color(#fff a(0.7))",
+    },
+    {
+      "selector": ":b2020#tab_label:incognito",
+      "foreground !imp": "color(#fff a(0.5))",
+    },
+
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_label",
+      "foreground !imp": "#637282",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_label:where([theme=dark])",
+      "foreground !imp": "#fff",
+    },
+    {
+      "selector": [
+        ":b2020#custo_tab.active_look > #tab_label[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#custo_tab.active_look > #tab_label[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": "#fff",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_label:is([tint=full], [tint=color])[theme=yellow]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": "#000",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_label:incognito",
+      "foreground !imp": "#000",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_label:sly_zen",
+      "foreground !imp": "#000",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_label:sly_zen:dark_wp_top",
+      "foreground !imp": "#fff",
+    },
+    {
+      "selector": [":b2020#custo_tab.active_look > #tab_label[state=protected]"],
+      "foreground !imp": "#fff",
+    },
+
+    {
+      "selector": ":b2020#tab_close_button",
+      "radius": 20,
+      "foreground !imp": ["#000", "#000", "#000", "#0000"],
+      "background !imp": ["#0000", "color(#000 a(.1))", "color(#000 a(.1))", "#0000"]
+    },
+    {
+      "selector": [
+        ":b2020#tab_close_button:where(:dark_wp_top)",
+        ":b2020#tab_close_button:where([theme=dark]:not([state=ntp], :sly_zen))",
+      ],
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "background !imp": ["#0000", "color(#fff a(.2))", "color(#fff a(.2))", "#0000"]
+    },
+    {
+      "selector": ":b2020#tab_close_button:is([tint=half], [tint=light], [tint=color]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "background !imp": ["#0000", "color(#000 a(.4))", "color(#000 a(.4))", "#0000"]
+    },
+    {
+      "selector": [
+        ":b2020#tab_close_button[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#tab_close_button[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#tab_close_button[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+      ],
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "background !imp": ["#0000", "color(#fff a(.2))", "color(#fff a(.2))", "#0000"]
+    },
+    {
+      "selector": ":b2020#tab_close_button:incognito",
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "background !imp": ["#0000", "color(#fff a(.2))", "color(#fff a(.2))", "#0000"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_close_button",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "background !imp": ["#0000", "color(#000 a(.4))", "color(#000 a(.4))", "#0000"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_close_button:where([theme=dark])",
+      "foreground !imp": ["#fff", "#fff", "#fff", "#0000" ],
+      "background !imp": ["#0000", "color(#fff a(.2))", "color(#fff a(.2))", "#0000"]
+    },
+    {
+      "selector": [
+        ":b2020#custo_tab.active_look > #tab_close_button[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#custo_tab.active_look > #tab_close_button[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": ["#fff", "#fff", "#fff", "#0000" ],
+      "background !imp": ["#0000", "color(#fff a(.2))", "color(#fff a(.2))", "#0000"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_close_button:is([tint=full], [tint=color])[theme=yellow]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "background !imp": ["#0000", "color(#000 a(.4))", "color(#000 a(.4))", "#0000"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_close_button:incognito",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "background !imp": ["#0000", "color(#000 a(.4))", "color(#000 a(.4))", "#0000"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_close_button:sly_zen",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "background !imp": ["#0000", "color(#000 a(.4))", "color(#000 a(.4))", "#0000"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_close_button:sly_zen:dark_wp_top",
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "background !imp": ["#0000", "color(#fff a(.2))", "color(#fff a(.2))", "#0000"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_close_button[state=protected]",
+      "foreground !imp": ["#fff", "#fff", "#fff", "#0000" ],
+      "background !imp": ["#0000", "color(#fff a(.2))", "color(#fff a(.2))", "#0000"]
+    },
+
+    {
+      "selector": ":b2020#tab_icon",
+      "foreground !imp": "#000",
+      // [unread_indicator, spining_throbber, waiting_throbber]
+      "background !imp": ["#000", "#000 ", "#000"]
+    },
+    {
+      "selector": [
+        ":b2020#tab_icon:where(:dark_wp_top)",
+        ":b2020#tab_icon:where([theme=dark]:not([state=ntp], :sly_zen))",
+      ],
+      "foreground !imp": "#F3F3F4",
+      "background !imp": ["#F3F3F4", "#F3F3F4 ", "#F3F3F4"]
+    },
+    {
+      "selector": ":b2020#tab_icon:is([tint=half], [tint=light], [tint=color]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": "#1B2733",
+      "background !imp": ["#1B2733", "#1B2733 ", "#1B2733"]
+    },
+    {
+      "selector": [
+        ":b2020#tab_icon[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#tab_icon[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#tab_icon[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+      ],
+      "foreground !imp": "#F3F3F4",
+      "background !imp": ["#F3F3F4", "#F3F3F4 ", "#F3F3F4"]
+    },
+    {
+      "selector": [":b2020#tab_icon:incognito"],
+      "foreground !imp": "#F3F3F4",
+      "background !imp": ["#F3F3F4", "#F3F3F4 ", "#F3F3F4"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_icon",
+      "foreground !imp": "#1B2733",
+      "background !imp": ["#1B2733", "#1B2733 ", "#1B2733"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_icon:where([theme=dark])",
+      "foreground !imp": "#fff",
+      "background !imp": ["#fff", "#fff ", "#fff"]
+    },
+    {
+      "selector": [
+        ":b2020#custo_tab.active_look > #tab_icon[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#custo_tab.active_look > #tab_icon[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": "#fff",
+      "background !imp": ["#fff", "#fff ", "#fff"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_icon:is([tint=full], [tint=color])[theme=yellow]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": "#1B2733",
+      "background !imp": ["#1B2733", "#1B2733 ", "#1B2733"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_icon:incognito",
+      "foreground !imp": "#1B2733",
+      "background !imp": ["#1B2733", "#1B2733 ", "#1B2733"]
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #tab_icon[state=protected]",
+      "foreground !imp": "#fff",
+      "background !imp": ["#fff", "#fff ", "#fff"]
+    },
+
+
+    {
+      "selector": ":b2020#unread_indicator",
+      "foreground !imp": "#000",
+    },
+    {
+      "selector": [
+        ":b2020#unread_indicator:where(:dark_wp_top)",
+        ":b2020#unread_indicator:where([theme=dark]:not([state=ntp], :sly_zen))",
+      ],
+      "foreground !imp": "#F3F3F4",
+    },
+    {
+      "selector": ":b2020#unread_indicator:is([tint=half], [tint=light], [tint=color]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": "#1B2733",
+    },
+    {
+      "selector": [
+        ":b2020#unread_indicator[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#unread_indicator[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#unread_indicator[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+      ],
+      "foreground !imp": "#F3F3F4",
+    },
+    {
+      "selector": ":b2020#unread_indicator:incognito",
+      "foreground !imp": "#F3F3F4",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #unread_indicator",
+      "foreground !imp": "#1B2733",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #unread_indicator:where([theme=dark])",
+      "foreground !imp": "#F3F3F4",
+    },
+    {
+      "selector": [
+        ":b2020#custo_tab.active_look > #unread_indicator[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#custo_tab.active_look > #unread_indicator[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": "#F3F3F4",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #unread_indicator:is([tint=full], [tint=color])[theme=yellow]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": "#1B2733",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #unread_indicator:incognito",
+      "foreground !imp": "#1B2733",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #unread_indicator[state=protected]",
+      "foreground !imp": "#F3F3F4",
+    },
+
+    {
+      "selector": ":b2020#media_indicator",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "custo_hover_color !imp": "color(#000 a(.1))",
+    },
+    {
+      "selector": [
+        ":b2020#media_indicator:where(:dark_wp_top)",
+        ":b2020#media_indicator:where([theme=dark]:not([state=ntp], :sly_zen))",
+        ":b2020#media_indicator:incognito",
+      ],
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "custo_hover_color !imp": "color(#fff a(.2))",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #media_indicator",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "custo_hover_color !imp": "color(#000 a(.4))",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #media_indicator:where([theme=dark])",
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "custo_hover_color !imp": "color(#fff a(.2))",
+    },
+    {
+      "selector": ":b2020#media_indicator:is([tint=half], [tint=light], [tint=color]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "custo_hover_color !imp": "color(#000 a(.4))",
+    },
+    {
+      "selector": [
+        ":b2020#media_indicator[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#media_indicator[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#media_indicator[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+      ],
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "custo_hover_color !imp": "color(#fff a(.2))",
+    },
+    {
+      "selector": ":b2020#media_indicator:incognito",
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "custo_hover_color !imp": "color(#fff a(.2))",
+    },
+    {
+      "selector": [
+        ":b2020#custo_tab.active_look > #media_indicator[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#custo_tab.active_look > #media_indicator[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "custo_hover_color !imp": "color(#fff a(.2))",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #media_indicator:is([tint=full], [tint=color])[theme=yellow]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "custo_hover_color !imp": "color(#000 a(.4))",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #media_indicator:incognito",
+      "foreground !imp": ["#1B2733", "#1B2733", "#1B2733", "#0000"],
+      "custo_hover_color !imp": "color(#000 a(.4))",
+    },
+    {
+      "selector": ":b2020#custo_tab.active_look > #media_indicator[state=protected]",
+      "foreground !imp": ["#F3F3F4", "#F3F3F4", "#F3F3F4", "#0000"],
+      "custo_hover_color !imp": "color(#fff a(.2))",
+    },
+
+    {
+      "selector": ":b2020#new_tab_button",
+      "foreground !imp": ["#1B2733", "#fff", "#fff", "#0000"],
+      "background !imp": ["var(top_light_background)", "color(#000 a(.8))", "color(#000 a(.8))", "#0000"],
+    },
+    {
+      "selector": ":b2020#new_tab_button:where([theme=dark]:not([state=ntp]))",
+      "foreground !imp": ["#F3F3F4", "#000", "#000", "#0000"],
+      "background !imp": ["var(top_dark_background)", "#fff", "#fff", "#0000"],
+    },
+
+    {
+      "selector": ":b2020#new_tab_button[theme=aqua]:where([tint=color], [tint=full])",
+      "foreground !imp": ["#fff", "#000", "#fff", "#fff"],
+      "background !imp": ["var(full_aqua)", "#fff"],
+    },
+    {
+      "selector": ":b2020#new_tab_button[theme=blue]:where([tint=color], [tint=full])",
+      "foreground !imp": ["#fff", "#000", "#fff", "#fff"],
+      "background !imp": ["var(full_blue)", "#fff"],
+    },
+    {
+      "selector": ":b2020#new_tab_button[theme=green]:where([tint=color], [tint=full])",
+      "foreground !imp": ["#fff", "#000", "#fff", "#fff"],
+      "background !imp": ["var(full_green)", "#fff"],
+    },
+    {
+      "selector": ":b2020#new_tab_button[theme=orange]:where([tint=color], [tint=full])",
+      "foreground !imp": ["#fff", "#000", "#fff", "#fff"],
+      "background !imp": ["var(full_orange)", "#fff"],
+    },
+    {
+      "selector": ":b2020#new_tab_button[theme=purple]:where([tint=color], [tint=full])",
+      "foreground !imp": ["#fff", "#000", "#fff", "#fff"],
+      "background !imp": ["var(full_purple)", "#fff"],
+    },
+    {
+      "selector": ":b2020#new_tab_button[theme=red]:where([tint=color], [tint=full])",
+      "foreground !imp": ["#fff", "#000", "#fff", "#fff"],
+      "background !imp": ["var(full_red)", "#fff"],
+    },
+    {
+      "selector": ":b2020#new_tab_button[theme=yellow]:where([tint=color], [tint=full])",
+      "foreground !imp": ["#000", "#000", "#fff", "#fff"],
+      "background !imp": ["var(full_yellow)", "#fff"],
+    },
+    {
+      "selector": ":b2020#new_tab_button:incognito",
+      "foreground !imp": ["#1B2733", "#fff", "#fff", "#0000"],
+      "background !imp": ["var(top_light_background)", "color(#000 a(.8))", "color(#000 a(.8))", "#0000"],
+    },
+    {
+      "selector": ":b2020#new_tab_button[state=protected]",
+      "foreground !imp": ["#F3F3F4", "#000", "#000", "#0000"],
+      "background !imp": ["var(top_protect_background)", "#fff", "#fff", "#0000"],
+    },
+
+    {
+      "selector": ":b2020#new_tab_button:is([state=ntp], :sly_zen)",
+      "foreground !imp": ["#1B2733", "#fff", "#fff", "#0000"],
+      "background !imp": ["var(top_light_background)", "color(#000 a(.8))", "color(#000 a(.8))", "#0000"],
+    },
+
+    {
+      "selector": [
+        ":b2020#dock_scroll_left",
+        ":b2020#dock_scroll_right",
+      ],
+      "foreground !imp": ["#000", "#000"],
+    },
+    {
+      "selector": [
+        ":b2020#dock_scroll_left:where(:dark_wp_top)",
+        ":b2020#dock_scroll_right:where(:dark_wp_top)",
+      ],
+      "foreground !imp": ["#fff", "#fff"],
+    },
+    {
+      "selector": [
+        ":b2020#dock_scroll_left:where([theme=dark]:not([state=ntp], :sly_zen))",
+        ":b2020#dock_scroll_right:where([theme=dark]:not([state=ntp], :sly_zen))",
+      ],
+      "foreground !imp": ["#fff", "#fff"],
+    },
+    {
+      "selector": [
+        ":b2020#dock_scroll_left:is([tint=half], [tint=light], [tint=color]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#dock_scroll_right:is([tint=half], [tint=light], [tint=color]):where(:not([state=ntp], :sly_zen, [state=protected]))",
+      ],
+      "foreground !imp": ["#000", "#000"],
+    },
+    {
+      "selector": [
+        ":b2020#dock_scroll_left[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#dock_scroll_left[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#dock_scroll_left[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+        ":b2020#dock_scroll_right[tint=full]:where(:not([state=ntp], :sly_zen, [state=protected]))",
+        ":b2020#dock_scroll_right[tint=color]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=yellow]))",
+        ":b2020#dock_scroll_right[tint=half]:where(:not([state=ntp], :sly_zen, [state=protected], [theme=aqua], [theme=green],[theme=yellow]))",
+      ],
+      "foreground !imp": ["#fff", "#fff"],
+    },
+    {
+      "selector": [
+        ":b2020#dock_scroll_left:incognito",
+        ":b2020#dock_scroll_right:incognito",
+      ],
+      "foreground !imp": ["#fff", "#fff"],
+    },
+  ],
+}

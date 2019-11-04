@@ -1,0 +1,43 @@
+{
+    "author": "http://app.prntscr.com/",
+    "background": {
+        "persistent": false,
+        "scripts": [
+            "libs/jquery-1.11.1.min.js",
+            "event.js"
+        ]
+    },
+    "browser_action": {
+        "default_icon": {
+            "19": "img/icon19.png",
+            "38": "img/icon38.png"
+        },
+        "default_title": "__MSG_screenshotplugin_default_title__"
+    },
+    "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+    "default_locale": "en",
+    "description": "__MSG_screenshotplugin_short_description__",
+    "icons": {
+        "128": "img/icon128.png",
+        "19": "img/icon19.png",
+        "24": "img/icon24.png",
+        "256": "img/icon256.png",
+        "32": "img/icon32.png",
+        "38": "img/icon38.png"
+    },
+    "manifest_version": 2,
+    "name": "__MSG_screenshotplugin_name__",
+    "permissions": [
+        "<all_urls>",
+        "tabs",
+        "activeTab",
+        "storage",
+        "unlimitedStorage",
+        "notifications",
+        "clipboardWrite",
+        "downloads",
+        "tabCapture"
+    ],
+    "update_url": "https://browser-api.store.yandex.net/crx/v1/update",
+    "version": "6.1.8.3"
+}

@@ -1,0 +1,17 @@
+{
+  "style_sheet":
+  [
+    {
+        "selector": [ "#tabs_top_panel" ],
+        "caption_height": 8,
+    },
+    {
+        "selector":
+        [
+            "#tabs_top_panel[window=fullscreen]",
+            "#tabs_top_panel[window=maximized]",
+        ],
+        "caption_height": 0,
+    },
+  ]
+}

@@ -1,0 +1,1833 @@
+Session
+2019-11-02 14:57:06.925 [0] ResetFile
+2019-11-02 14:57:06.925 [0] Truncate
+2019-11-02 14:57:06.925 [0] ResetFile done
+2019-11-02 14:57:06.925 [0] AppendCommandsToFile
+2019-11-02 14:57:06.927 [0] AppendCommandsToFile done
+2019-11-02 14:57:06.953 [0] MaintainBackup
+2019-11-02 14:57:06.953 [3] MaintainBackup
+2019-11-02 14:57:06.953 [0] MaintainBackup done
+2019-11-02 14:57:06.953 [0] AppendCommands done
+2019-11-02 14:57:06.953 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 14:57:06.953 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 14:58:36.857 [196] Perform Save
+2019-11-02 14:58:36.857 [196] AppendCommandsWithReset
+2019-11-02 14:58:36.857 [0] MaintainBackup
+2019-11-02 14:58:36.857 [0] MaintainBackup done
+2019-11-02 14:58:36.857 [0] Backup Current Session
+2019-11-02 14:58:36.859 [0] ResetFile
+2019-11-02 14:58:36.859 [0] Truncate
+2019-11-02 14:58:36.859 [0] ResetFile done
+2019-11-02 14:58:36.859 [0] AppendCommandsToFile
+2019-11-02 14:58:36.861 [0] AppendCommandsToFile done
+2019-11-02 14:58:36.884 [0] MaintainBackup
+2019-11-02 14:58:36.884 [3] MaintainBackup
+2019-11-02 14:58:36.884 [0] MaintainBackup done
+2019-11-02 14:58:36.884 [0] AppendCommands done
+2019-11-02 14:58:36.884 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 14:58:36.884 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 14:58:39.628 [196] Perform Save
+2019-11-02 14:58:39.628 [196] AppendCommandsWithReset
+2019-11-02 14:58:39.628 [0] MaintainBackup
+2019-11-02 14:58:39.628 [0] MaintainBackup done
+2019-11-02 14:58:39.628 [0] Backup Current Session
+2019-11-02 14:58:39.629 [0] ResetFile
+2019-11-02 14:58:39.629 [0] Truncate
+2019-11-02 14:58:39.629 [0] ResetFile done
+2019-11-02 14:58:39.629 [0] AppendCommandsToFile
+2019-11-02 14:58:39.631 [0] AppendCommandsToFile done
+2019-11-02 14:58:39.654 [0] MaintainBackup
+2019-11-02 14:58:39.654 [3] MaintainBackup
+2019-11-02 14:58:39.654 [0] MaintainBackup done
+2019-11-02 14:58:39.654 [0] AppendCommands done
+2019-11-02 14:58:39.654 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 14:58:39.654 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 14:59:03.470 [196] Perform Save
+2019-11-02 14:59:03.470 [196] AppendCommandsWithReset
+2019-11-02 14:59:03.470 [0] MaintainBackup
+2019-11-02 14:59:03.470 [0] MaintainBackup done
+2019-11-02 14:59:03.470 [0] Backup Current Session
+2019-11-02 14:59:03.472 [0] ResetFile
+2019-11-02 14:59:03.472 [0] Truncate
+2019-11-02 14:59:03.472 [0] ResetFile done
+2019-11-02 14:59:03.472 [0] AppendCommandsToFile
+2019-11-02 14:59:03.475 [0] AppendCommandsToFile done
+2019-11-02 14:59:03.495 [0] MaintainBackup
+2019-11-02 14:59:03.495 [3] MaintainBackup
+2019-11-02 14:59:03.495 [0] MaintainBackup done
+2019-11-02 14:59:03.495 [0] AppendCommands done
+2019-11-02 14:59:03.496 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 14:59:03.496 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 14:59:19.736 [196] Perform Save
+2019-11-02 14:59:19.736 [196] AppendCommandsWithReset
+2019-11-02 14:59:19.736 [0] MaintainBackup
+2019-11-02 14:59:19.736 [0] MaintainBackup done
+2019-11-02 14:59:19.736 [0] Backup Current Session
+2019-11-02 14:59:19.738 [0] ResetFile
+2019-11-02 14:59:19.738 [0] Truncate
+2019-11-02 14:59:19.738 [0] ResetFile done
+2019-11-02 14:59:19.738 [0] AppendCommandsToFile
+2019-11-02 14:59:19.742 [0] AppendCommandsToFile done
+2019-11-02 14:59:19.758 [0] MaintainBackup
+2019-11-02 14:59:19.758 [3] MaintainBackup
+2019-11-02 14:59:19.758 [0] MaintainBackup done
+2019-11-02 14:59:19.758 [0] AppendCommands done
+2019-11-02 14:59:19.758 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 14:59:19.758 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:00:28.850 [196] Perform Save
+2019-11-02 15:00:28.850 [196] AppendCommandsWithReset
+2019-11-02 15:00:28.850 [0] MaintainBackup
+2019-11-02 15:00:28.850 [0] MaintainBackup done
+2019-11-02 15:00:28.850 [0] Backup Current Session
+2019-11-02 15:00:28.850 [0] ResetFile
+2019-11-02 15:00:28.850 [0] Truncate
+2019-11-02 15:00:28.850 [0] ResetFile done
+2019-11-02 15:00:28.850 [0] AppendCommandsToFile
+2019-11-02 15:00:28.852 [0] AppendCommandsToFile done
+2019-11-02 15:00:28.879 [0] MaintainBackup
+2019-11-02 15:00:28.879 [3] MaintainBackup
+2019-11-02 15:00:28.879 [0] MaintainBackup done
+2019-11-02 15:00:28.879 [0] AppendCommands done
+2019-11-02 15:00:28.879 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:00:28.879 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:00:38.943 [196] Perform Save
+2019-11-02 15:00:38.943 [196] AppendCommandsWithReset
+2019-11-02 15:00:38.943 [0] MaintainBackup
+2019-11-02 15:00:38.943 [0] MaintainBackup done
+2019-11-02 15:00:38.943 [0] Backup Current Session
+2019-11-02 15:00:38.944 [0] ResetFile
+2019-11-02 15:00:38.944 [0] Truncate
+2019-11-02 15:00:38.944 [0] ResetFile done
+2019-11-02 15:00:38.944 [0] AppendCommandsToFile
+2019-11-02 15:00:38.948 [0] AppendCommandsToFile done
+2019-11-02 15:00:38.966 [0] MaintainBackup
+2019-11-02 15:00:38.966 [3] MaintainBackup
+2019-11-02 15:00:38.966 [0] MaintainBackup done
+2019-11-02 15:00:38.966 [0] AppendCommands done
+2019-11-02 15:00:38.966 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:00:38.966 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:01:10.704 [7] AppendCommands
+2019-11-02 15:01:10.704 [0] MaintainBackup
+2019-11-02 15:01:10.704 [0] MaintainBackup done
+2019-11-02 15:01:10.704 [0] AppendCommandsToFile
+2019-11-02 15:01:10.704 [0] AppendCommandsToFile done
+2019-11-02 15:01:10.704 [0] AppendCommands done
+2019-11-02 15:01:26.349 [0] Flush
+2019-11-02 15:01:26.349 [0] MaintainBackup
+2019-11-02 15:01:26.349 [0] MaintainBackup done
+2019-11-02 15:01:26.352 [0] Flush done
+2019-11-02 15:20:20.514 [203] Perform Save
+2019-11-02 15:20:20.514 [203] AppendCommandsWithReset
+2019-11-02 15:20:20.514 [0] MaintainBackup
+2019-11-02 15:20:20.514 [0] MaintainBackup done
+2019-11-02 15:20:20.514 [0] Backup Current Session
+2019-11-02 15:20:20.515 [0] ResetFile
+2019-11-02 15:20:20.515 [0] Truncate
+2019-11-02 15:20:20.515 [0] ResetFile done
+2019-11-02 15:20:20.515 [0] AppendCommandsToFile
+2019-11-02 15:20:20.517 [0] AppendCommandsToFile done
+2019-11-02 15:20:20.534 [0] MaintainBackup
+2019-11-02 15:20:20.534 [3] MaintainBackup
+2019-11-02 15:20:20.534 [0] MaintainBackup done
+2019-11-02 15:20:20.534 [0] AppendCommands done
+2019-11-02 15:20:20.534 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:20:20.534 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:29:13.588 [203] Perform Save
+2019-11-02 15:29:13.588 [203] AppendCommandsWithReset
+2019-11-02 15:29:13.588 [0] MaintainBackup
+2019-11-02 15:29:13.588 [0] MaintainBackup done
+2019-11-02 15:29:13.588 [0] Backup Current Session
+2019-11-02 15:29:13.589 [0] ResetFile
+2019-11-02 15:29:13.589 [0] Truncate
+2019-11-02 15:29:13.589 [0] ResetFile done
+2019-11-02 15:29:13.589 [0] AppendCommandsToFile
+2019-11-02 15:29:13.591 [0] AppendCommandsToFile done
+2019-11-02 15:29:13.607 [0] MaintainBackup
+2019-11-02 15:29:13.607 [3] MaintainBackup
+2019-11-02 15:29:13.607 [0] MaintainBackup done
+2019-11-02 15:29:13.607 [0] AppendCommands done
+2019-11-02 15:29:13.607 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:29:13.607 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:29:23.841 [203] Perform Save
+2019-11-02 15:29:23.841 [203] AppendCommandsWithReset
+2019-11-02 15:29:23.841 [0] MaintainBackup
+2019-11-02 15:29:23.841 [0] MaintainBackup done
+2019-11-02 15:29:23.841 [0] Backup Current Session
+2019-11-02 15:29:23.842 [0] ResetFile
+2019-11-02 15:29:23.842 [0] Truncate
+2019-11-02 15:29:23.842 [0] ResetFile done
+2019-11-02 15:29:23.842 [0] AppendCommandsToFile
+2019-11-02 15:29:23.846 [0] AppendCommandsToFile done
+2019-11-02 15:29:23.864 [0] MaintainBackup
+2019-11-02 15:29:23.864 [3] MaintainBackup
+2019-11-02 15:29:23.865 [0] MaintainBackup done
+2019-11-02 15:29:23.865 [0] AppendCommands done
+2019-11-02 15:29:23.865 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:29:23.865 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:31:19.967 [203] Perform Save
+2019-11-02 15:31:19.967 [203] AppendCommandsWithReset
+2019-11-02 15:31:19.967 [0] MaintainBackup
+2019-11-02 15:31:19.967 [0] MaintainBackup done
+2019-11-02 15:31:19.967 [0] Backup Current Session
+2019-11-02 15:31:19.968 [0] ResetFile
+2019-11-02 15:31:19.968 [0] Truncate
+2019-11-02 15:31:19.968 [0] ResetFile done
+2019-11-02 15:31:19.968 [0] AppendCommandsToFile
+2019-11-02 15:31:19.970 [0] AppendCommandsToFile done
+2019-11-02 15:31:19.988 [0] MaintainBackup
+2019-11-02 15:31:19.988 [3] MaintainBackup
+2019-11-02 15:31:19.988 [0] MaintainBackup done
+2019-11-02 15:31:19.988 [0] AppendCommands done
+2019-11-02 15:31:19.988 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:31:19.988 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:31:54.674 [203] Perform Save
+2019-11-02 15:31:54.674 [203] AppendCommandsWithReset
+2019-11-02 15:31:54.674 [0] MaintainBackup
+2019-11-02 15:31:54.674 [0] MaintainBackup done
+2019-11-02 15:31:54.674 [0] Backup Current Session
+2019-11-02 15:31:54.683 [0] ResetFile
+2019-11-02 15:31:54.683 [0] Truncate
+2019-11-02 15:31:54.683 [0] ResetFile done
+2019-11-02 15:31:54.683 [0] AppendCommandsToFile
+2019-11-02 15:31:54.685 [0] AppendCommandsToFile done
+2019-11-02 15:31:54.719 [0] MaintainBackup
+2019-11-02 15:31:54.719 [3] MaintainBackup
+2019-11-02 15:31:54.719 [0] MaintainBackup done
+2019-11-02 15:31:54.719 [0] AppendCommands done
+2019-11-02 15:31:54.719 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:31:54.719 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 15:34:34.425 [203] Perform Save
+2019-11-02 15:34:34.425 [203] AppendCommandsWithReset
+2019-11-02 15:34:34.425 [0] MaintainBackup
+2019-11-02 15:34:34.425 [0] MaintainBackup done
+2019-11-02 15:34:34.425 [0] Backup Current Session
+2019-11-02 15:34:34.425 [0] ResetFile
+2019-11-02 15:34:34.425 [0] Truncate
+2019-11-02 15:34:34.426 [0] ResetFile done
+2019-11-02 15:34:34.426 [0] AppendCommandsToFile
+2019-11-02 15:34:34.428 [0] AppendCommandsToFile done
+2019-11-02 15:34:34.443 [0] MaintainBackup
+2019-11-02 15:34:34.443 [3] MaintainBackup
+2019-11-02 15:34:34.443 [0] MaintainBackup done
+2019-11-02 15:34:34.443 [0] AppendCommands done
+2019-11-02 15:34:34.443 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 15:34:34.443 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 19:57:33.278 [0] Session Log Truncated
+2019-11-02 19:57:33.278 [0] InitSessionLog done
+2019-11-02 19:57:33.278 [0] ReadLastSessionCommands
+2019-11-02 19:57:33.278 [3] SessionState
+2019-11-02 19:57:33.278 [0] MaintainBackup
+2019-11-02 19:57:33.278 [0] MaintainBackup
+2019-11-02 19:57:33.278 [0] MaintainBackup done
+2019-11-02 19:57:33.278 [0] InitImpl
+2019-11-02 19:57:33.278 [0] MoveCurrentSessionToLastSessionImpl
+2019-11-02 19:57:33.297 [530] SessionHistogram: last_session_file_size
+2019-11-02 19:57:33.297 [0] MoveCurrentSessionToLastSessionImpl done
+2019-11-02 19:57:33.297 [0] InitImpl done
+2019-11-02 19:57:33.297 [0] ReadLastSessionCommandsImpl
+2019-11-02 19:57:33.297 [0] MaintainBackup
+2019-11-02 19:57:33.297 [0] MaintainBackup done
+2019-11-02 19:57:33.484 [0] ReadLastSessionCommandsImpl done
+2019-11-02 19:57:33.484 [0] ReadLastSessionCommands done
+2019-11-02 19:57:42.978 [204] Perform Save
+2019-11-02 19:57:42.978 [204] AppendCommandsWithReset
+2019-11-02 19:57:42.978 [0] MaintainBackup
+2019-11-02 19:57:42.978 [0] MaintainBackup done
+2019-11-02 19:57:42.978 [0] ResetFile
+2019-11-02 19:57:42.978 [0] OpenAndWriteHeader
+2019-11-02 19:57:42.978 [0] OpenAndWriteHeader done
+2019-11-02 19:57:42.978 [0] ResetFile done
+2019-11-02 19:57:42.978 [0] AppendCommandsToFile
+2019-11-02 19:57:42.980 [0] AppendCommandsToFile done
+2019-11-02 19:57:43.017 [0] AppendCommands done
+2019-11-02 19:57:43.017 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 19:57:43.017 [0] Set current_session_is_valid_
+2019-11-02 19:57:43.017 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 19:57:46.521 [204] Perform Save
+2019-11-02 19:57:46.521 [204] AppendCommandsWithReset
+2019-11-02 19:57:46.521 [0] MaintainBackup
+2019-11-02 19:57:46.521 [0] MaintainBackup done
+2019-11-02 19:57:46.521 [0] Backup Current Session
+2019-11-02 19:57:46.530 [0] ResetFile
+2019-11-02 19:57:46.530 [0] Truncate
+2019-11-02 19:57:46.530 [0] ResetFile done
+2019-11-02 19:57:46.530 [0] AppendCommandsToFile
+2019-11-02 19:57:46.534 [0] AppendCommandsToFile done
+2019-11-02 19:57:46.569 [0] MaintainBackup
+2019-11-02 19:57:46.569 [3] MaintainBackup
+2019-11-02 19:57:46.569 [0] MaintainBackup done
+2019-11-02 19:57:46.569 [0] AppendCommands done
+2019-11-02 19:57:46.569 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 19:57:46.569 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 19:57:50.760 [204] Perform Save
+2019-11-02 19:57:50.761 [204] AppendCommandsWithReset
+2019-11-02 19:57:50.761 [0] MaintainBackup
+2019-11-02 19:57:50.761 [0] MaintainBackup done
+2019-11-02 19:57:50.761 [0] Backup Current Session
+2019-11-02 19:57:50.764 [0] ResetFile
+2019-11-02 19:57:50.765 [0] Truncate
+2019-11-02 19:57:50.765 [0] ResetFile done
+2019-11-02 19:57:50.765 [0] AppendCommandsToFile
+2019-11-02 19:57:50.766 [0] AppendCommandsToFile done
+2019-11-02 19:57:50.814 [0] MaintainBackup
+2019-11-02 19:57:50.815 [3] MaintainBackup
+2019-11-02 19:57:50.815 [0] MaintainBackup done
+2019-11-02 19:57:50.815 [0] AppendCommands done
+2019-11-02 19:57:50.815 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 19:57:50.815 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 19:57:53.752 [203] Perform Save
+2019-11-02 19:57:53.752 [203] AppendCommandsWithReset
+2019-11-02 19:57:53.752 [0] MaintainBackup
+2019-11-02 19:57:53.752 [0] MaintainBackup done
+2019-11-02 19:57:53.752 [0] Backup Current Session
+2019-11-02 19:57:53.752 [0] ResetFile
+2019-11-02 19:57:53.752 [0] Truncate
+2019-11-02 19:57:53.752 [0] ResetFile done
+2019-11-02 19:57:53.752 [0] AppendCommandsToFile
+2019-11-02 19:57:53.754 [0] AppendCommandsToFile done
+2019-11-02 19:57:53.786 [0] MaintainBackup
+2019-11-02 19:57:53.786 [3] MaintainBackup
+2019-11-02 19:57:53.786 [0] MaintainBackup done
+2019-11-02 19:57:53.786 [0] AppendCommands done
+2019-11-02 19:57:53.786 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 19:57:53.786 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 19:57:56.828 [204] Perform Save
+2019-11-02 19:57:56.828 [204] AppendCommandsWithReset
+2019-11-02 19:57:56.828 [0] MaintainBackup
+2019-11-02 19:57:56.828 [0] MaintainBackup done
+2019-11-02 19:57:56.828 [0] Backup Current Session
+2019-11-02 19:57:56.835 [0] ResetFile
+2019-11-02 19:57:56.835 [0] Truncate
+2019-11-02 19:57:56.835 [0] ResetFile done
+2019-11-02 19:57:56.835 [0] AppendCommandsToFile
+2019-11-02 19:57:56.837 [0] AppendCommandsToFile done
+2019-11-02 19:57:56.874 [0] MaintainBackup
+2019-11-02 19:57:56.874 [3] MaintainBackup
+2019-11-02 19:57:56.874 [0] MaintainBackup done
+2019-11-02 19:57:56.874 [0] AppendCommands done
+2019-11-02 19:57:56.874 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 19:57:56.874 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 20:00:54.415 [203] Perform Save
+2019-11-02 20:00:54.415 [203] AppendCommandsWithReset
+2019-11-02 20:00:54.415 [0] MaintainBackup
+2019-11-02 20:00:54.415 [0] MaintainBackup done
+2019-11-02 20:00:54.415 [0] Backup Current Session
+2019-11-02 20:00:54.416 [0] ResetFile
+2019-11-02 20:00:54.416 [0] Truncate
+2019-11-02 20:00:54.416 [0] ResetFile done
+2019-11-02 20:00:54.416 [0] AppendCommandsToFile
+2019-11-02 20:00:54.420 [0] AppendCommandsToFile done
+2019-11-02 20:00:54.460 [0] MaintainBackup
+2019-11-02 20:00:54.460 [3] MaintainBackup
+2019-11-02 20:00:54.460 [0] MaintainBackup done
+2019-11-02 20:00:54.460 [0] AppendCommands done
+2019-11-02 20:00:54.460 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 20:00:54.460 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 20:01:02.445 [203] Perform Save
+2019-11-02 20:01:02.445 [203] AppendCommandsWithReset
+2019-11-02 20:01:02.445 [0] MaintainBackup
+2019-11-02 20:01:02.445 [0] MaintainBackup done
+2019-11-02 20:01:02.445 [0] Backup Current Session
+2019-11-02 20:01:02.449 [0] ResetFile
+2019-11-02 20:01:02.449 [0] Truncate
+2019-11-02 20:01:02.449 [0] ResetFile done
+2019-11-02 20:01:02.449 [0] AppendCommandsToFile
+2019-11-02 20:01:02.453 [0] AppendCommandsToFile done
+2019-11-02 20:01:02.468 [0] MaintainBackup
+2019-11-02 20:01:02.468 [3] MaintainBackup
+2019-11-02 20:01:02.468 [0] MaintainBackup done
+2019-11-02 20:01:02.468 [0] AppendCommands done
+2019-11-02 20:01:02.468 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 20:01:02.468 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 20:01:06.731 [203] Perform Save
+2019-11-02 20:01:06.731 [203] AppendCommandsWithReset
+2019-11-02 20:01:06.731 [0] MaintainBackup
+2019-11-02 20:01:06.731 [0] MaintainBackup done
+2019-11-02 20:01:06.731 [0] Backup Current Session
+2019-11-02 20:01:06.732 [0] ResetFile
+2019-11-02 20:01:06.732 [0] Truncate
+2019-11-02 20:01:06.732 [0] ResetFile done
+2019-11-02 20:01:06.732 [0] AppendCommandsToFile
+2019-11-02 20:01:06.734 [0] AppendCommandsToFile done
+2019-11-02 20:01:06.768 [0] MaintainBackup
+2019-11-02 20:01:06.768 [3] MaintainBackup
+2019-11-02 20:01:06.768 [0] MaintainBackup done
+2019-11-02 20:01:06.768 [0] AppendCommands done
+2019-11-02 20:01:06.768 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 20:01:06.768 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 20:07:28.923 [4] AppendCommands
+2019-11-02 20:07:28.923 [0] MaintainBackup
+2019-11-02 20:07:28.923 [0] MaintainBackup done
+2019-11-02 20:07:28.923 [0] AppendCommandsToFile
+2019-11-02 20:07:28.923 [0] AppendCommandsToFile done
+2019-11-02 20:07:28.923 [0] AppendCommands done
+2019-11-02 20:08:26.423 [0] Flush
+2019-11-02 20:08:26.423 [0] MaintainBackup
+2019-11-02 20:08:26.424 [0] MaintainBackup done
+2019-11-02 20:08:26.424 [0] Flush done
+2019-11-02 20:09:59.549 [18] AppendCommands
+2019-11-02 20:09:59.549 [0] MaintainBackup
+2019-11-02 20:09:59.549 [0] MaintainBackup done
+2019-11-02 20:09:59.549 [0] AppendCommandsToFile
+2019-11-02 20:09:59.549 [0] AppendCommandsToFile done
+2019-11-02 20:09:59.549 [0] AppendCommands done
+2019-11-02 20:10:02.582 [4] AppendCommands
+2019-11-02 20:10:02.582 [0] MaintainBackup
+2019-11-02 20:10:02.582 [0] MaintainBackup done
+2019-11-02 20:10:02.582 [0] AppendCommandsToFile
+2019-11-02 20:10:02.582 [0] AppendCommandsToFile done
+2019-11-02 20:10:02.582 [0] AppendCommands done
+2019-11-02 20:10:57.049 [0] Flush
+2019-11-02 20:10:57.049 [0] MaintainBackup
+2019-11-02 20:10:57.049 [0] MaintainBackup done
+2019-11-02 20:10:57.050 [0] Flush done
+2019-11-02 20:19:16.164 [9] AppendCommands
+2019-11-02 20:19:16.164 [0] MaintainBackup
+2019-11-02 20:19:16.164 [0] MaintainBackup done
+2019-11-02 20:19:16.164 [0] AppendCommandsToFile
+2019-11-02 20:19:16.164 [0] AppendCommandsToFile done
+2019-11-02 20:19:16.164 [0] AppendCommands done
+2019-11-02 20:19:29.217 [238] Perform Save
+2019-11-02 20:19:29.217 [238] AppendCommandsWithReset
+2019-11-02 20:19:29.217 [0] MaintainBackup
+2019-11-02 20:19:29.217 [0] MaintainBackup done
+2019-11-02 20:19:29.217 [0] Backup Current Session
+2019-11-02 20:19:29.236 [0] ResetFile
+2019-11-02 20:19:29.236 [0] Truncate
+2019-11-02 20:19:29.236 [0] ResetFile done
+2019-11-02 20:19:29.237 [0] AppendCommandsToFile
+2019-11-02 20:19:29.240 [0] AppendCommandsToFile done
+2019-11-02 20:19:29.262 [0] MaintainBackup
+2019-11-02 20:19:29.262 [3] MaintainBackup
+2019-11-02 20:19:29.263 [0] MaintainBackup done
+2019-11-02 20:19:29.263 [0] AppendCommands done
+2019-11-02 20:19:29.263 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 20:19:29.263 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 20:19:32.836 [238] Perform Save
+2019-11-02 20:19:32.836 [238] AppendCommandsWithReset
+2019-11-02 20:19:32.836 [0] MaintainBackup
+2019-11-02 20:19:32.836 [0] MaintainBackup done
+2019-11-02 20:19:32.836 [0] Backup Current Session
+2019-11-02 20:19:32.837 [0] ResetFile
+2019-11-02 20:19:32.837 [0] Truncate
+2019-11-02 20:19:32.837 [0] ResetFile done
+2019-11-02 20:19:32.837 [0] AppendCommandsToFile
+2019-11-02 20:19:32.842 [0] AppendCommandsToFile done
+2019-11-02 20:19:32.868 [0] MaintainBackup
+2019-11-02 20:19:32.868 [3] MaintainBackup
+2019-11-02 20:19:32.868 [0] MaintainBackup done
+2019-11-02 20:19:32.868 [0] AppendCommands done
+2019-11-02 20:19:32.869 [0] RemoveCurrentSessionInvalidMarker
+2019-11-02 20:19:32.869 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-02 21:05:37.308 [50] AppendCommands
+2019-11-02 21:05:37.308 [0] MaintainBackup
+2019-11-02 21:05:37.308 [0] MaintainBackup done
+2019-11-02 21:05:37.308 [0] AppendCommandsToFile
+2019-11-02 21:05:37.309 [0] AppendCommandsToFile done
+2019-11-02 21:05:37.309 [0] AppendCommands done
+2019-11-04 09:25:41.510 [0] InitSessionLog done
+2019-11-04 09:25:41.602 [0] ReadLastSessionCommands
+2019-11-04 09:25:41.602 [3] SessionState
+2019-11-04 09:25:41.602 [0] MaintainBackup
+2019-11-04 09:25:41.602 [0] MaintainBackup
+2019-11-04 09:25:41.602 [0] MaintainBackup done
+2019-11-04 09:25:41.602 [0] InitImpl
+2019-11-04 09:25:41.602 [0] MoveCurrentSessionToLastSessionImpl
+2019-11-04 09:25:41.602 [740] SessionHistogram: last_session_file_size
+2019-11-04 09:25:41.602 [0] MoveCurrentSessionToLastSessionImpl done
+2019-11-04 09:25:41.602 [0] InitImpl done
+2019-11-04 09:25:41.602 [0] ReadLastSessionCommandsImpl
+2019-11-04 09:25:41.602 [0] MaintainBackup
+2019-11-04 09:25:41.602 [0] MaintainBackup done
+2019-11-04 09:25:41.619 [0] ReadLastSessionCommandsImpl done
+2019-11-04 09:25:41.619 [0] ReadLastSessionCommands done
+2019-11-04 09:25:51.384 [288] Perform Save
+2019-11-04 09:25:51.384 [288] AppendCommandsWithReset
+2019-11-04 09:25:51.384 [0] MaintainBackup
+2019-11-04 09:25:51.384 [0] MaintainBackup done
+2019-11-04 09:25:51.384 [0] ResetFile
+2019-11-04 09:25:51.384 [0] OpenAndWriteHeader
+2019-11-04 09:25:51.384 [0] OpenAndWriteHeader done
+2019-11-04 09:25:51.384 [0] ResetFile done
+2019-11-04 09:25:51.384 [0] AppendCommandsToFile
+2019-11-04 09:25:51.387 [0] AppendCommandsToFile done
+2019-11-04 09:25:51.404 [0] AppendCommands done
+2019-11-04 09:25:51.404 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:25:51.404 [0] Set current_session_is_valid_
+2019-11-04 09:25:51.404 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:25:54.237 [289] Perform Save
+2019-11-04 09:25:54.237 [289] AppendCommandsWithReset
+2019-11-04 09:25:54.237 [0] MaintainBackup
+2019-11-04 09:25:54.237 [0] MaintainBackup done
+2019-11-04 09:25:54.237 [0] Backup Current Session
+2019-11-04 09:25:54.244 [0] ResetFile
+2019-11-04 09:25:54.244 [0] Truncate
+2019-11-04 09:25:54.244 [0] ResetFile done
+2019-11-04 09:25:54.244 [0] AppendCommandsToFile
+2019-11-04 09:25:54.246 [0] AppendCommandsToFile done
+2019-11-04 09:25:54.266 [0] MaintainBackup
+2019-11-04 09:25:54.266 [3] MaintainBackup
+2019-11-04 09:25:54.266 [0] MaintainBackup done
+2019-11-04 09:25:54.266 [0] AppendCommands done
+2019-11-04 09:25:54.267 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:25:54.267 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:25:59.102 [289] Perform Save
+2019-11-04 09:25:59.102 [289] AppendCommandsWithReset
+2019-11-04 09:25:59.102 [0] MaintainBackup
+2019-11-04 09:25:59.102 [0] MaintainBackup done
+2019-11-04 09:25:59.102 [0] Backup Current Session
+2019-11-04 09:25:59.103 [0] ResetFile
+2019-11-04 09:25:59.103 [0] Truncate
+2019-11-04 09:25:59.103 [0] ResetFile done
+2019-11-04 09:25:59.103 [0] AppendCommandsToFile
+2019-11-04 09:25:59.105 [0] AppendCommandsToFile done
+2019-11-04 09:25:59.130 [0] MaintainBackup
+2019-11-04 09:25:59.130 [3] MaintainBackup
+2019-11-04 09:25:59.130 [0] MaintainBackup done
+2019-11-04 09:25:59.130 [0] AppendCommands done
+2019-11-04 09:25:59.131 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:25:59.131 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:26:04.168 [289] Perform Save
+2019-11-04 09:26:04.168 [289] AppendCommandsWithReset
+2019-11-04 09:26:04.168 [0] MaintainBackup
+2019-11-04 09:26:04.168 [0] MaintainBackup done
+2019-11-04 09:26:04.168 [0] Backup Current Session
+2019-11-04 09:26:04.169 [0] ResetFile
+2019-11-04 09:26:04.169 [0] Truncate
+2019-11-04 09:26:04.169 [0] ResetFile done
+2019-11-04 09:26:04.170 [0] AppendCommandsToFile
+2019-11-04 09:26:04.172 [0] AppendCommandsToFile done
+2019-11-04 09:26:04.201 [0] MaintainBackup
+2019-11-04 09:26:04.201 [3] MaintainBackup
+2019-11-04 09:26:04.201 [0] MaintainBackup done
+2019-11-04 09:26:04.201 [0] AppendCommands done
+2019-11-04 09:26:04.202 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:26:04.202 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:26:07.103 [289] Perform Save
+2019-11-04 09:26:07.103 [289] AppendCommandsWithReset
+2019-11-04 09:26:07.103 [0] MaintainBackup
+2019-11-04 09:26:07.103 [0] MaintainBackup done
+2019-11-04 09:26:07.103 [0] Backup Current Session
+2019-11-04 09:26:07.106 [0] ResetFile
+2019-11-04 09:26:07.106 [0] Truncate
+2019-11-04 09:26:07.106 [0] ResetFile done
+2019-11-04 09:26:07.106 [0] AppendCommandsToFile
+2019-11-04 09:26:07.112 [0] AppendCommandsToFile done
+2019-11-04 09:26:07.139 [0] MaintainBackup
+2019-11-04 09:26:07.139 [3] MaintainBackup
+2019-11-04 09:26:07.139 [0] MaintainBackup done
+2019-11-04 09:26:07.139 [0] AppendCommands done
+2019-11-04 09:26:07.139 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:26:07.139 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:26:11.267 [288] Perform Save
+2019-11-04 09:26:11.267 [288] AppendCommandsWithReset
+2019-11-04 09:26:11.267 [0] MaintainBackup
+2019-11-04 09:26:11.267 [0] MaintainBackup done
+2019-11-04 09:26:11.267 [0] Backup Current Session
+2019-11-04 09:26:11.272 [0] ResetFile
+2019-11-04 09:26:11.272 [0] Truncate
+2019-11-04 09:26:11.272 [0] ResetFile done
+2019-11-04 09:26:11.272 [0] AppendCommandsToFile
+2019-11-04 09:26:11.274 [0] AppendCommandsToFile done
+2019-11-04 09:26:11.293 [0] MaintainBackup
+2019-11-04 09:26:11.293 [3] MaintainBackup
+2019-11-04 09:26:11.293 [0] MaintainBackup done
+2019-11-04 09:26:11.293 [0] AppendCommands done
+2019-11-04 09:26:11.293 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:26:11.293 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:26:21.103 [288] Perform Save
+2019-11-04 09:26:21.103 [288] AppendCommandsWithReset
+2019-11-04 09:26:21.103 [0] MaintainBackup
+2019-11-04 09:26:21.103 [0] MaintainBackup done
+2019-11-04 09:26:21.103 [0] Backup Current Session
+2019-11-04 09:26:21.105 [0] ResetFile
+2019-11-04 09:26:21.105 [0] Truncate
+2019-11-04 09:26:21.105 [0] ResetFile done
+2019-11-04 09:26:21.105 [0] AppendCommandsToFile
+2019-11-04 09:26:21.108 [0] AppendCommandsToFile done
+2019-11-04 09:26:21.132 [0] MaintainBackup
+2019-11-04 09:26:21.132 [3] MaintainBackup
+2019-11-04 09:26:21.132 [0] MaintainBackup done
+2019-11-04 09:26:21.132 [0] AppendCommands done
+2019-11-04 09:26:21.133 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:26:21.133 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:26:24.571 [288] Perform Save
+2019-11-04 09:26:24.571 [288] AppendCommandsWithReset
+2019-11-04 09:26:24.571 [0] MaintainBackup
+2019-11-04 09:26:24.571 [0] MaintainBackup done
+2019-11-04 09:26:24.571 [0] Backup Current Session
+2019-11-04 09:26:24.572 [0] ResetFile
+2019-11-04 09:26:24.572 [0] Truncate
+2019-11-04 09:26:24.572 [0] ResetFile done
+2019-11-04 09:26:24.572 [0] AppendCommandsToFile
+2019-11-04 09:26:24.575 [0] AppendCommandsToFile done
+2019-11-04 09:26:24.612 [0] MaintainBackup
+2019-11-04 09:26:24.612 [3] MaintainBackup
+2019-11-04 09:26:24.612 [0] MaintainBackup done
+2019-11-04 09:26:24.612 [0] AppendCommands done
+2019-11-04 09:26:24.612 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:26:24.612 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:27:11.073 [4] AppendCommands
+2019-11-04 09:27:11.073 [0] MaintainBackup
+2019-11-04 09:27:11.073 [0] MaintainBackup done
+2019-11-04 09:27:11.073 [0] AppendCommandsToFile
+2019-11-04 09:27:11.073 [0] AppendCommandsToFile done
+2019-11-04 09:27:11.073 [0] AppendCommands done
+2019-11-04 09:27:14.634 [292] Perform Save
+2019-11-04 09:27:14.634 [292] AppendCommandsWithReset
+2019-11-04 09:27:14.634 [0] MaintainBackup
+2019-11-04 09:27:14.634 [0] MaintainBackup done
+2019-11-04 09:27:14.634 [0] Backup Current Session
+2019-11-04 09:27:14.652 [0] ResetFile
+2019-11-04 09:27:14.652 [0] Truncate
+2019-11-04 09:27:14.652 [0] ResetFile done
+2019-11-04 09:27:14.652 [0] AppendCommandsToFile
+2019-11-04 09:27:14.656 [0] AppendCommandsToFile done
+2019-11-04 09:27:14.680 [0] MaintainBackup
+2019-11-04 09:27:14.680 [3] MaintainBackup
+2019-11-04 09:27:14.680 [0] MaintainBackup done
+2019-11-04 09:27:14.680 [0] AppendCommands done
+2019-11-04 09:27:14.681 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:27:14.681 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:37:20.094 [0] InitSessionLog done
+2019-11-04 09:37:20.103 [0] ReadLastSessionCommands
+2019-11-04 09:37:20.103 [3] SessionState
+2019-11-04 09:37:20.103 [0] MaintainBackup
+2019-11-04 09:37:20.103 [0] MaintainBackup
+2019-11-04 09:37:20.103 [0] MaintainBackup done
+2019-11-04 09:37:20.103 [0] InitImpl
+2019-11-04 09:37:20.103 [0] MoveCurrentSessionToLastSessionImpl
+2019-11-04 09:37:20.124 [741] SessionHistogram: last_session_file_size
+2019-11-04 09:37:20.124 [0] MoveCurrentSessionToLastSessionImpl done
+2019-11-04 09:37:20.124 [0] InitImpl done
+2019-11-04 09:37:20.124 [0] ReadLastSessionCommandsImpl
+2019-11-04 09:37:20.124 [0] MaintainBackup
+2019-11-04 09:37:20.124 [0] MaintainBackup done
+2019-11-04 09:37:20.230 [0] ReadLastSessionCommandsImpl done
+2019-11-04 09:37:20.230 [0] ReadLastSessionCommands done
+2019-11-04 09:37:29.652 [224] Perform Save
+2019-11-04 09:37:29.652 [224] AppendCommandsWithReset
+2019-11-04 09:37:29.652 [0] MaintainBackup
+2019-11-04 09:37:29.652 [0] MaintainBackup done
+2019-11-04 09:37:29.652 [0] ResetFile
+2019-11-04 09:37:29.652 [0] OpenAndWriteHeader
+2019-11-04 09:37:29.652 [0] OpenAndWriteHeader done
+2019-11-04 09:37:29.652 [0] ResetFile done
+2019-11-04 09:37:29.652 [0] AppendCommandsToFile
+2019-11-04 09:37:29.654 [0] AppendCommandsToFile done
+2019-11-04 09:37:29.689 [0] AppendCommands done
+2019-11-04 09:37:29.689 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:37:29.689 [0] Set current_session_is_valid_
+2019-11-04 09:37:29.689 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:37:32.435 [224] Perform Save
+2019-11-04 09:37:32.435 [224] AppendCommandsWithReset
+2019-11-04 09:37:32.435 [0] MaintainBackup
+2019-11-04 09:37:32.435 [0] MaintainBackup done
+2019-11-04 09:37:32.435 [0] Backup Current Session
+2019-11-04 09:37:32.437 [0] ResetFile
+2019-11-04 09:37:32.437 [0] Truncate
+2019-11-04 09:37:32.437 [0] ResetFile done
+2019-11-04 09:37:32.437 [0] AppendCommandsToFile
+2019-11-04 09:37:32.439 [0] AppendCommandsToFile done
+2019-11-04 09:37:32.461 [0] MaintainBackup
+2019-11-04 09:37:32.461 [3] MaintainBackup
+2019-11-04 09:37:32.461 [0] MaintainBackup done
+2019-11-04 09:37:32.461 [0] AppendCommands done
+2019-11-04 09:37:32.461 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:37:32.461 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:37:34.998 [223] Perform Save
+2019-11-04 09:37:34.998 [223] AppendCommandsWithReset
+2019-11-04 09:37:34.998 [0] MaintainBackup
+2019-11-04 09:37:34.998 [0] MaintainBackup done
+2019-11-04 09:37:34.998 [0] Backup Current Session
+2019-11-04 09:37:34.999 [0] ResetFile
+2019-11-04 09:37:34.999 [0] Truncate
+2019-11-04 09:37:34.999 [0] ResetFile done
+2019-11-04 09:37:34.999 [0] AppendCommandsToFile
+2019-11-04 09:37:35.003 [0] AppendCommandsToFile done
+2019-11-04 09:37:35.029 [0] MaintainBackup
+2019-11-04 09:37:35.029 [3] MaintainBackup
+2019-11-04 09:37:35.029 [0] MaintainBackup done
+2019-11-04 09:37:35.029 [0] AppendCommands done
+2019-11-04 09:37:35.029 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:37:35.030 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:37:38.641 [224] Perform Save
+2019-11-04 09:37:38.641 [224] AppendCommandsWithReset
+2019-11-04 09:37:38.641 [0] MaintainBackup
+2019-11-04 09:37:38.641 [0] MaintainBackup done
+2019-11-04 09:37:38.641 [0] Backup Current Session
+2019-11-04 09:37:38.642 [0] ResetFile
+2019-11-04 09:37:38.642 [0] Truncate
+2019-11-04 09:37:38.642 [0] ResetFile done
+2019-11-04 09:37:38.642 [0] AppendCommandsToFile
+2019-11-04 09:37:38.644 [0] AppendCommandsToFile done
+2019-11-04 09:37:38.669 [0] MaintainBackup
+2019-11-04 09:37:38.669 [3] MaintainBackup
+2019-11-04 09:37:38.669 [0] MaintainBackup done
+2019-11-04 09:37:38.669 [0] AppendCommands done
+2019-11-04 09:37:38.670 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:37:38.670 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:37:43.521 [224] Perform Save
+2019-11-04 09:37:43.521 [224] AppendCommandsWithReset
+2019-11-04 09:37:43.522 [0] MaintainBackup
+2019-11-04 09:37:43.522 [0] MaintainBackup done
+2019-11-04 09:37:43.522 [0] Backup Current Session
+2019-11-04 09:37:43.525 [0] ResetFile
+2019-11-04 09:37:43.525 [0] Truncate
+2019-11-04 09:37:43.525 [0] ResetFile done
+2019-11-04 09:37:43.525 [0] AppendCommandsToFile
+2019-11-04 09:37:43.529 [0] AppendCommandsToFile done
+2019-11-04 09:37:43.545 [0] MaintainBackup
+2019-11-04 09:37:43.545 [3] MaintainBackup
+2019-11-04 09:37:43.545 [0] MaintainBackup done
+2019-11-04 09:37:43.545 [0] AppendCommands done
+2019-11-04 09:37:43.546 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:37:43.546 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:37:46.575 [223] Perform Save
+2019-11-04 09:37:46.575 [223] AppendCommandsWithReset
+2019-11-04 09:37:46.575 [0] MaintainBackup
+2019-11-04 09:37:46.575 [0] MaintainBackup done
+2019-11-04 09:37:46.575 [0] Backup Current Session
+2019-11-04 09:37:46.586 [0] ResetFile
+2019-11-04 09:37:46.586 [0] Truncate
+2019-11-04 09:37:46.587 [0] ResetFile done
+2019-11-04 09:37:46.587 [0] AppendCommandsToFile
+2019-11-04 09:37:46.591 [0] AppendCommandsToFile done
+2019-11-04 09:37:46.611 [0] MaintainBackup
+2019-11-04 09:37:46.611 [3] MaintainBackup
+2019-11-04 09:37:46.611 [0] MaintainBackup done
+2019-11-04 09:37:46.611 [0] AppendCommands done
+2019-11-04 09:37:46.612 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:37:46.612 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:38:03.398 [3] AppendCommands
+2019-11-04 09:38:03.398 [0] MaintainBackup
+2019-11-04 09:38:03.398 [0] MaintainBackup done
+2019-11-04 09:38:03.398 [0] AppendCommandsToFile
+2019-11-04 09:38:03.398 [0] AppendCommandsToFile done
+2019-11-04 09:38:03.398 [0] AppendCommands done
+2019-11-04 09:38:19.675 [226] Perform Save
+2019-11-04 09:38:19.675 [226] AppendCommandsWithReset
+2019-11-04 09:38:19.675 [0] MaintainBackup
+2019-11-04 09:38:19.675 [0] MaintainBackup done
+2019-11-04 09:38:19.675 [0] Backup Current Session
+2019-11-04 09:38:19.680 [0] ResetFile
+2019-11-04 09:38:19.680 [0] Truncate
+2019-11-04 09:38:19.680 [0] ResetFile done
+2019-11-04 09:38:19.680 [0] AppendCommandsToFile
+2019-11-04 09:38:19.684 [0] AppendCommandsToFile done
+2019-11-04 09:38:19.708 [0] MaintainBackup
+2019-11-04 09:38:19.708 [3] MaintainBackup
+2019-11-04 09:38:19.708 [0] MaintainBackup done
+2019-11-04 09:38:19.708 [0] AppendCommands done
+2019-11-04 09:38:19.708 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:38:19.708 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:38:24.668 [226] Perform Save
+2019-11-04 09:38:24.668 [226] AppendCommandsWithReset
+2019-11-04 09:38:24.668 [0] MaintainBackup
+2019-11-04 09:38:24.668 [0] MaintainBackup done
+2019-11-04 09:38:24.668 [0] Backup Current Session
+2019-11-04 09:38:24.669 [0] ResetFile
+2019-11-04 09:38:24.669 [0] Truncate
+2019-11-04 09:38:24.669 [0] ResetFile done
+2019-11-04 09:38:24.669 [0] AppendCommandsToFile
+2019-11-04 09:38:24.671 [0] AppendCommandsToFile done
+2019-11-04 09:38:24.691 [0] MaintainBackup
+2019-11-04 09:38:24.691 [3] MaintainBackup
+2019-11-04 09:38:24.691 [0] MaintainBackup done
+2019-11-04 09:38:24.691 [0] AppendCommands done
+2019-11-04 09:38:24.691 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:38:24.691 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:38:36.570 [226] Perform Save
+2019-11-04 09:38:36.570 [226] AppendCommandsWithReset
+2019-11-04 09:38:36.570 [0] MaintainBackup
+2019-11-04 09:38:36.570 [0] MaintainBackup done
+2019-11-04 09:38:36.570 [0] Backup Current Session
+2019-11-04 09:38:36.571 [0] ResetFile
+2019-11-04 09:38:36.571 [0] Truncate
+2019-11-04 09:38:36.571 [0] ResetFile done
+2019-11-04 09:38:36.571 [0] AppendCommandsToFile
+2019-11-04 09:38:36.574 [0] AppendCommandsToFile done
+2019-11-04 09:38:36.607 [0] MaintainBackup
+2019-11-04 09:38:36.607 [3] MaintainBackup
+2019-11-04 09:38:36.607 [0] MaintainBackup done
+2019-11-04 09:38:36.607 [0] AppendCommands done
+2019-11-04 09:38:36.607 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:38:36.607 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:38:48.361 [11] AppendCommands
+2019-11-04 09:38:48.361 [0] MaintainBackup
+2019-11-04 09:38:48.361 [0] MaintainBackup done
+2019-11-04 09:38:48.361 [0] AppendCommandsToFile
+2019-11-04 09:38:48.361 [0] AppendCommandsToFile done
+2019-11-04 09:38:48.361 [0] AppendCommands done
+2019-11-04 09:38:53.176 [237] Perform Save
+2019-11-04 09:38:53.176 [237] AppendCommandsWithReset
+2019-11-04 09:38:53.176 [0] MaintainBackup
+2019-11-04 09:38:53.176 [0] MaintainBackup done
+2019-11-04 09:38:53.176 [0] Backup Current Session
+2019-11-04 09:38:53.182 [0] ResetFile
+2019-11-04 09:38:53.182 [0] Truncate
+2019-11-04 09:38:53.182 [0] ResetFile done
+2019-11-04 09:38:53.182 [0] AppendCommandsToFile
+2019-11-04 09:38:53.186 [0] AppendCommandsToFile done
+2019-11-04 09:38:53.205 [0] MaintainBackup
+2019-11-04 09:38:53.205 [3] MaintainBackup
+2019-11-04 09:38:53.205 [0] MaintainBackup done
+2019-11-04 09:38:53.205 [0] AppendCommands done
+2019-11-04 09:38:53.206 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:38:53.206 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:39:11.153 [5] AppendCommands
+2019-11-04 09:39:11.153 [0] MaintainBackup
+2019-11-04 09:39:11.153 [0] MaintainBackup done
+2019-11-04 09:39:11.153 [0] AppendCommandsToFile
+2019-11-04 09:39:11.153 [0] AppendCommandsToFile done
+2019-11-04 09:39:11.153 [0] AppendCommands done
+2019-11-04 09:39:14.812 [242] Perform Save
+2019-11-04 09:39:14.812 [242] AppendCommandsWithReset
+2019-11-04 09:39:14.812 [0] MaintainBackup
+2019-11-04 09:39:14.812 [0] MaintainBackup done
+2019-11-04 09:39:14.812 [0] Backup Current Session
+2019-11-04 09:39:14.831 [0] ResetFile
+2019-11-04 09:39:14.832 [0] Truncate
+2019-11-04 09:39:14.832 [0] ResetFile done
+2019-11-04 09:39:14.832 [0] AppendCommandsToFile
+2019-11-04 09:39:14.836 [0] AppendCommandsToFile done
+2019-11-04 09:39:14.856 [0] MaintainBackup
+2019-11-04 09:39:14.856 [3] MaintainBackup
+2019-11-04 09:39:14.856 [0] MaintainBackup done
+2019-11-04 09:39:14.856 [0] AppendCommands done
+2019-11-04 09:39:14.856 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:39:14.856 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:40:02.853 [242] Perform Save
+2019-11-04 09:40:02.853 [242] AppendCommandsWithReset
+2019-11-04 09:40:02.853 [0] MaintainBackup
+2019-11-04 09:40:02.853 [0] MaintainBackup done
+2019-11-04 09:40:02.853 [0] Backup Current Session
+2019-11-04 09:40:02.854 [0] ResetFile
+2019-11-04 09:40:02.854 [0] Truncate
+2019-11-04 09:40:02.854 [0] ResetFile done
+2019-11-04 09:40:02.855 [0] AppendCommandsToFile
+2019-11-04 09:40:02.859 [0] AppendCommandsToFile done
+2019-11-04 09:40:02.877 [0] MaintainBackup
+2019-11-04 09:40:02.877 [3] MaintainBackup
+2019-11-04 09:40:02.877 [0] MaintainBackup done
+2019-11-04 09:40:02.877 [0] AppendCommands done
+2019-11-04 09:40:02.878 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:40:02.878 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:40:08.595 [242] Perform Save
+2019-11-04 09:40:08.595 [242] AppendCommandsWithReset
+2019-11-04 09:40:08.595 [0] MaintainBackup
+2019-11-04 09:40:08.595 [0] MaintainBackup done
+2019-11-04 09:40:08.595 [0] Backup Current Session
+2019-11-04 09:40:08.596 [0] ResetFile
+2019-11-04 09:40:08.596 [0] Truncate
+2019-11-04 09:40:08.596 [0] ResetFile done
+2019-11-04 09:40:08.596 [0] AppendCommandsToFile
+2019-11-04 09:40:08.598 [0] AppendCommandsToFile done
+2019-11-04 09:40:08.620 [0] MaintainBackup
+2019-11-04 09:40:08.620 [3] MaintainBackup
+2019-11-04 09:40:08.620 [0] MaintainBackup done
+2019-11-04 09:40:08.620 [0] AppendCommands done
+2019-11-04 09:40:08.620 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:40:08.620 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:40:34.059 [242] Perform Save
+2019-11-04 09:40:34.059 [242] AppendCommandsWithReset
+2019-11-04 09:40:34.059 [0] MaintainBackup
+2019-11-04 09:40:34.059 [0] MaintainBackup done
+2019-11-04 09:40:34.059 [0] Backup Current Session
+2019-11-04 09:40:34.060 [0] ResetFile
+2019-11-04 09:40:34.060 [0] Truncate
+2019-11-04 09:40:34.060 [0] ResetFile done
+2019-11-04 09:40:34.060 [0] AppendCommandsToFile
+2019-11-04 09:40:34.062 [0] AppendCommandsToFile done
+2019-11-04 09:40:34.081 [0] MaintainBackup
+2019-11-04 09:40:34.081 [3] MaintainBackup
+2019-11-04 09:40:34.081 [0] MaintainBackup done
+2019-11-04 09:40:34.081 [0] AppendCommands done
+2019-11-04 09:40:34.081 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:40:34.081 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:40:46.120 [242] Perform Save
+2019-11-04 09:40:46.120 [242] AppendCommandsWithReset
+2019-11-04 09:40:46.120 [0] MaintainBackup
+2019-11-04 09:40:46.120 [0] MaintainBackup done
+2019-11-04 09:40:46.120 [0] Backup Current Session
+2019-11-04 09:40:46.121 [0] ResetFile
+2019-11-04 09:40:46.121 [0] Truncate
+2019-11-04 09:40:46.121 [0] ResetFile done
+2019-11-04 09:40:46.121 [0] AppendCommandsToFile
+2019-11-04 09:40:46.125 [0] AppendCommandsToFile done
+2019-11-04 09:40:46.149 [0] MaintainBackup
+2019-11-04 09:40:46.149 [3] MaintainBackup
+2019-11-04 09:40:46.149 [0] MaintainBackup done
+2019-11-04 09:40:46.149 [0] AppendCommands done
+2019-11-04 09:40:46.149 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:40:46.150 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:40:52.926 [242] Perform Save
+2019-11-04 09:40:52.926 [242] AppendCommandsWithReset
+2019-11-04 09:40:52.926 [0] MaintainBackup
+2019-11-04 09:40:52.926 [0] MaintainBackup done
+2019-11-04 09:40:52.926 [0] Backup Current Session
+2019-11-04 09:40:52.927 [0] ResetFile
+2019-11-04 09:40:52.927 [0] Truncate
+2019-11-04 09:40:52.927 [0] ResetFile done
+2019-11-04 09:40:52.927 [0] AppendCommandsToFile
+2019-11-04 09:40:52.929 [0] AppendCommandsToFile done
+2019-11-04 09:40:52.949 [0] MaintainBackup
+2019-11-04 09:40:52.949 [3] MaintainBackup
+2019-11-04 09:40:52.949 [0] MaintainBackup done
+2019-11-04 09:40:52.949 [0] AppendCommands done
+2019-11-04 09:40:52.950 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:40:52.950 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:40:57.300 [242] Perform Save
+2019-11-04 09:40:57.300 [242] AppendCommandsWithReset
+2019-11-04 09:40:57.300 [0] MaintainBackup
+2019-11-04 09:40:57.300 [0] MaintainBackup done
+2019-11-04 09:40:57.300 [0] Backup Current Session
+2019-11-04 09:40:57.301 [0] ResetFile
+2019-11-04 09:40:57.301 [0] Truncate
+2019-11-04 09:40:57.301 [0] ResetFile done
+2019-11-04 09:40:57.301 [0] AppendCommandsToFile
+2019-11-04 09:40:57.303 [0] AppendCommandsToFile done
+2019-11-04 09:40:57.325 [0] MaintainBackup
+2019-11-04 09:40:57.325 [3] MaintainBackup
+2019-11-04 09:40:57.326 [0] MaintainBackup done
+2019-11-04 09:40:57.326 [0] AppendCommands done
+2019-11-04 09:40:57.326 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:40:57.326 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:41:25.414 [242] Perform Save
+2019-11-04 09:41:25.414 [242] AppendCommandsWithReset
+2019-11-04 09:41:25.414 [0] MaintainBackup
+2019-11-04 09:41:25.414 [0] MaintainBackup done
+2019-11-04 09:41:25.414 [0] Backup Current Session
+2019-11-04 09:41:25.415 [0] ResetFile
+2019-11-04 09:41:25.415 [0] Truncate
+2019-11-04 09:41:25.415 [0] ResetFile done
+2019-11-04 09:41:25.415 [0] AppendCommandsToFile
+2019-11-04 09:41:25.420 [0] AppendCommandsToFile done
+2019-11-04 09:41:25.467 [0] MaintainBackup
+2019-11-04 09:41:25.467 [3] MaintainBackup
+2019-11-04 09:41:25.467 [0] MaintainBackup done
+2019-11-04 09:41:25.467 [0] AppendCommands done
+2019-11-04 09:41:25.467 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:41:25.467 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:41:48.201 [242] Perform Save
+2019-11-04 09:41:48.201 [242] AppendCommandsWithReset
+2019-11-04 09:41:48.201 [0] MaintainBackup
+2019-11-04 09:41:48.201 [0] MaintainBackup done
+2019-11-04 09:41:48.201 [0] Backup Current Session
+2019-11-04 09:41:48.202 [0] ResetFile
+2019-11-04 09:41:48.202 [0] Truncate
+2019-11-04 09:41:48.202 [0] ResetFile done
+2019-11-04 09:41:48.202 [0] AppendCommandsToFile
+2019-11-04 09:41:48.204 [0] AppendCommandsToFile done
+2019-11-04 09:41:48.222 [0] MaintainBackup
+2019-11-04 09:41:48.222 [3] MaintainBackup
+2019-11-04 09:41:48.223 [0] MaintainBackup done
+2019-11-04 09:41:48.223 [0] AppendCommands done
+2019-11-04 09:41:48.223 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:41:48.223 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:41:51.083 [242] Perform Save
+2019-11-04 09:41:51.083 [242] AppendCommandsWithReset
+2019-11-04 09:41:51.083 [0] MaintainBackup
+2019-11-04 09:41:51.083 [0] MaintainBackup done
+2019-11-04 09:41:51.083 [0] Backup Current Session
+2019-11-04 09:41:51.084 [0] ResetFile
+2019-11-04 09:41:51.084 [0] Truncate
+2019-11-04 09:41:51.084 [0] ResetFile done
+2019-11-04 09:41:51.084 [0] AppendCommandsToFile
+2019-11-04 09:41:51.086 [0] AppendCommandsToFile done
+2019-11-04 09:41:51.105 [0] MaintainBackup
+2019-11-04 09:41:51.105 [3] MaintainBackup
+2019-11-04 09:41:51.106 [0] MaintainBackup done
+2019-11-04 09:41:51.106 [0] AppendCommands done
+2019-11-04 09:41:51.106 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:41:51.106 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:41:55.026 [242] Perform Save
+2019-11-04 09:41:55.026 [242] AppendCommandsWithReset
+2019-11-04 09:41:55.026 [0] MaintainBackup
+2019-11-04 09:41:55.026 [0] MaintainBackup done
+2019-11-04 09:41:55.026 [0] Backup Current Session
+2019-11-04 09:41:55.027 [0] ResetFile
+2019-11-04 09:41:55.027 [0] Truncate
+2019-11-04 09:41:55.027 [0] ResetFile done
+2019-11-04 09:41:55.027 [0] AppendCommandsToFile
+2019-11-04 09:41:55.029 [0] AppendCommandsToFile done
+2019-11-04 09:41:55.048 [0] MaintainBackup
+2019-11-04 09:41:55.048 [3] MaintainBackup
+2019-11-04 09:41:55.048 [0] MaintainBackup done
+2019-11-04 09:41:55.048 [0] AppendCommands done
+2019-11-04 09:41:55.048 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:41:55.048 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:42:00.090 [242] Perform Save
+2019-11-04 09:42:00.090 [242] AppendCommandsWithReset
+2019-11-04 09:42:00.090 [0] MaintainBackup
+2019-11-04 09:42:00.090 [0] MaintainBackup done
+2019-11-04 09:42:00.090 [0] Backup Current Session
+2019-11-04 09:42:00.092 [0] ResetFile
+2019-11-04 09:42:00.092 [0] Truncate
+2019-11-04 09:42:00.092 [0] ResetFile done
+2019-11-04 09:42:00.092 [0] AppendCommandsToFile
+2019-11-04 09:42:00.096 [0] AppendCommandsToFile done
+2019-11-04 09:42:00.115 [0] MaintainBackup
+2019-11-04 09:42:00.115 [3] MaintainBackup
+2019-11-04 09:42:00.115 [0] MaintainBackup done
+2019-11-04 09:42:00.115 [0] AppendCommands done
+2019-11-04 09:42:00.115 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:42:00.115 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:42:38.483 [242] Perform Save
+2019-11-04 09:42:38.483 [242] AppendCommandsWithReset
+2019-11-04 09:42:38.483 [0] MaintainBackup
+2019-11-04 09:42:38.483 [0] MaintainBackup done
+2019-11-04 09:42:38.483 [0] Backup Current Session
+2019-11-04 09:42:38.484 [0] ResetFile
+2019-11-04 09:42:38.484 [0] Truncate
+2019-11-04 09:42:38.484 [0] ResetFile done
+2019-11-04 09:42:38.484 [0] AppendCommandsToFile
+2019-11-04 09:42:38.489 [0] AppendCommandsToFile done
+2019-11-04 09:42:38.511 [0] MaintainBackup
+2019-11-04 09:42:38.511 [3] MaintainBackup
+2019-11-04 09:42:38.511 [0] MaintainBackup done
+2019-11-04 09:42:38.511 [0] AppendCommands done
+2019-11-04 09:42:38.511 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:42:38.511 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:45:54.319 [242] Perform Save
+2019-11-04 09:45:54.319 [242] AppendCommandsWithReset
+2019-11-04 09:45:54.319 [0] MaintainBackup
+2019-11-04 09:45:54.319 [0] MaintainBackup done
+2019-11-04 09:45:54.319 [0] Backup Current Session
+2019-11-04 09:45:54.320 [0] ResetFile
+2019-11-04 09:45:54.320 [0] Truncate
+2019-11-04 09:45:54.320 [0] ResetFile done
+2019-11-04 09:45:54.320 [0] AppendCommandsToFile
+2019-11-04 09:45:54.325 [0] AppendCommandsToFile done
+2019-11-04 09:45:54.344 [0] MaintainBackup
+2019-11-04 09:45:54.344 [3] MaintainBackup
+2019-11-04 09:45:54.345 [0] MaintainBackup done
+2019-11-04 09:45:54.345 [0] AppendCommands done
+2019-11-04 09:45:54.345 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:45:54.345 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:46:25.821 [5] AppendCommands
+2019-11-04 09:46:25.821 [0] MaintainBackup
+2019-11-04 09:46:25.821 [0] MaintainBackup done
+2019-11-04 09:46:25.821 [0] AppendCommandsToFile
+2019-11-04 09:46:25.821 [0] AppendCommandsToFile done
+2019-11-04 09:46:25.821 [0] AppendCommands done
+2019-11-04 09:46:35.888 [247] Perform Save
+2019-11-04 09:46:35.888 [247] AppendCommandsWithReset
+2019-11-04 09:46:35.888 [0] MaintainBackup
+2019-11-04 09:46:35.888 [0] MaintainBackup done
+2019-11-04 09:46:35.888 [0] Backup Current Session
+2019-11-04 09:46:35.889 [0] ResetFile
+2019-11-04 09:46:35.889 [0] Truncate
+2019-11-04 09:46:35.889 [0] ResetFile done
+2019-11-04 09:46:35.889 [0] AppendCommandsToFile
+2019-11-04 09:46:35.894 [0] AppendCommandsToFile done
+2019-11-04 09:46:35.911 [0] MaintainBackup
+2019-11-04 09:46:35.911 [3] MaintainBackup
+2019-11-04 09:46:35.912 [0] MaintainBackup done
+2019-11-04 09:46:35.912 [0] AppendCommands done
+2019-11-04 09:46:35.912 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:46:35.912 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 09:48:53.984 [18] AppendCommands
+2019-11-04 09:48:53.984 [0] MaintainBackup
+2019-11-04 09:48:53.984 [0] MaintainBackup done
+2019-11-04 09:48:53.984 [0] AppendCommandsToFile
+2019-11-04 09:48:53.984 [0] AppendCommandsToFile done
+2019-11-04 09:48:53.984 [0] AppendCommands done
+2019-11-04 09:48:57.300 [8] AppendCommands
+2019-11-04 09:48:57.300 [0] MaintainBackup
+2019-11-04 09:48:57.300 [0] MaintainBackup done
+2019-11-04 09:48:57.300 [0] AppendCommandsToFile
+2019-11-04 09:48:57.300 [0] AppendCommandsToFile done
+2019-11-04 09:48:57.300 [0] AppendCommands done
+2019-11-04 09:49:01.319 [273] Perform Save
+2019-11-04 09:49:01.319 [273] AppendCommandsWithReset
+2019-11-04 09:49:01.320 [0] MaintainBackup
+2019-11-04 09:49:01.320 [0] MaintainBackup done
+2019-11-04 09:49:01.320 [0] Backup Current Session
+2019-11-04 09:49:01.326 [0] ResetFile
+2019-11-04 09:49:01.326 [0] Truncate
+2019-11-04 09:49:01.326 [0] ResetFile done
+2019-11-04 09:49:01.326 [0] AppendCommandsToFile
+2019-11-04 09:49:01.331 [0] AppendCommandsToFile done
+2019-11-04 09:49:01.355 [0] MaintainBackup
+2019-11-04 09:49:01.355 [3] MaintainBackup
+2019-11-04 09:49:01.355 [0] MaintainBackup done
+2019-11-04 09:49:01.355 [0] AppendCommands done
+2019-11-04 09:49:01.356 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 09:49:01.356 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:11:35.357 [0] InitSessionLog done
+2019-11-04 12:11:35.391 [0] ReadLastSessionCommands
+2019-11-04 12:11:35.391 [3] SessionState
+2019-11-04 12:11:35.391 [0] MaintainBackup
+2019-11-04 12:11:35.391 [0] MaintainBackup
+2019-11-04 12:11:35.391 [0] MaintainBackup done
+2019-11-04 12:11:35.391 [0] InitImpl
+2019-11-04 12:11:35.391 [0] MoveCurrentSessionToLastSessionImpl
+2019-11-04 12:11:35.409 [709] SessionHistogram: last_session_file_size
+2019-11-04 12:11:35.409 [0] MoveCurrentSessionToLastSessionImpl done
+2019-11-04 12:11:35.409 [0] InitImpl done
+2019-11-04 12:11:35.409 [0] ReadLastSessionCommandsImpl
+2019-11-04 12:11:35.409 [0] MaintainBackup
+2019-11-04 12:11:35.409 [0] MaintainBackup done
+2019-11-04 12:11:35.597 [0] ReadLastSessionCommandsImpl done
+2019-11-04 12:11:35.597 [0] ReadLastSessionCommands done
+2019-11-04 12:11:43.082 [273] Perform Save
+2019-11-04 12:11:43.082 [273] AppendCommandsWithReset
+2019-11-04 12:11:43.082 [0] MaintainBackup
+2019-11-04 12:11:43.082 [0] MaintainBackup done
+2019-11-04 12:11:43.082 [0] ResetFile
+2019-11-04 12:11:43.082 [0] OpenAndWriteHeader
+2019-11-04 12:11:43.083 [0] OpenAndWriteHeader done
+2019-11-04 12:11:43.083 [0] ResetFile done
+2019-11-04 12:11:43.083 [0] AppendCommandsToFile
+2019-11-04 12:11:43.086 [0] AppendCommandsToFile done
+2019-11-04 12:11:43.130 [0] AppendCommands done
+2019-11-04 12:11:43.130 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:11:43.130 [0] Set current_session_is_valid_
+2019-11-04 12:11:43.130 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:11:46.223 [273] Perform Save
+2019-11-04 12:11:46.223 [273] AppendCommandsWithReset
+2019-11-04 12:11:46.223 [0] MaintainBackup
+2019-11-04 12:11:46.223 [0] MaintainBackup done
+2019-11-04 12:11:46.223 [0] Backup Current Session
+2019-11-04 12:11:46.247 [0] ResetFile
+2019-11-04 12:11:46.247 [0] Truncate
+2019-11-04 12:11:46.247 [0] ResetFile done
+2019-11-04 12:11:46.247 [0] AppendCommandsToFile
+2019-11-04 12:11:46.250 [0] AppendCommandsToFile done
+2019-11-04 12:11:46.293 [0] MaintainBackup
+2019-11-04 12:11:46.293 [3] MaintainBackup
+2019-11-04 12:11:46.293 [0] MaintainBackup done
+2019-11-04 12:11:46.293 [0] AppendCommands done
+2019-11-04 12:11:46.294 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:11:46.294 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:11:48.755 [275] Perform Save
+2019-11-04 12:11:48.756 [275] AppendCommandsWithReset
+2019-11-04 12:11:48.756 [0] MaintainBackup
+2019-11-04 12:11:48.756 [0] MaintainBackup done
+2019-11-04 12:11:48.756 [0] Backup Current Session
+2019-11-04 12:11:48.756 [0] ResetFile
+2019-11-04 12:11:48.756 [0] Truncate
+2019-11-04 12:11:48.757 [0] ResetFile done
+2019-11-04 12:11:48.757 [0] AppendCommandsToFile
+2019-11-04 12:11:48.759 [0] AppendCommandsToFile done
+2019-11-04 12:11:48.798 [0] MaintainBackup
+2019-11-04 12:11:48.798 [3] MaintainBackup
+2019-11-04 12:11:48.798 [0] MaintainBackup done
+2019-11-04 12:11:48.798 [0] AppendCommands done
+2019-11-04 12:11:48.798 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:11:48.798 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:11:54.750 [274] Perform Save
+2019-11-04 12:11:54.750 [274] AppendCommandsWithReset
+2019-11-04 12:11:54.750 [0] MaintainBackup
+2019-11-04 12:11:54.750 [0] MaintainBackup done
+2019-11-04 12:11:54.751 [0] Backup Current Session
+2019-11-04 12:11:54.751 [0] ResetFile
+2019-11-04 12:11:54.751 [0] Truncate
+2019-11-04 12:11:54.751 [0] ResetFile done
+2019-11-04 12:11:54.751 [0] AppendCommandsToFile
+2019-11-04 12:11:54.755 [0] AppendCommandsToFile done
+2019-11-04 12:11:54.827 [0] MaintainBackup
+2019-11-04 12:11:54.827 [3] MaintainBackup
+2019-11-04 12:11:54.827 [0] MaintainBackup done
+2019-11-04 12:11:54.827 [0] AppendCommands done
+2019-11-04 12:11:54.827 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:11:54.827 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:11:58.135 [274] Perform Save
+2019-11-04 12:11:58.135 [274] AppendCommandsWithReset
+2019-11-04 12:11:58.135 [0] MaintainBackup
+2019-11-04 12:11:58.135 [0] MaintainBackup done
+2019-11-04 12:11:58.135 [0] Backup Current Session
+2019-11-04 12:11:58.136 [0] ResetFile
+2019-11-04 12:11:58.136 [0] Truncate
+2019-11-04 12:11:58.136 [0] ResetFile done
+2019-11-04 12:11:58.136 [0] AppendCommandsToFile
+2019-11-04 12:11:58.139 [0] AppendCommandsToFile done
+2019-11-04 12:11:58.182 [0] MaintainBackup
+2019-11-04 12:11:58.182 [3] MaintainBackup
+2019-11-04 12:11:58.182 [0] MaintainBackup done
+2019-11-04 12:11:58.182 [0] AppendCommands done
+2019-11-04 12:11:58.183 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:11:58.183 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:12:01.904 [273] Perform Save
+2019-11-04 12:12:01.904 [273] AppendCommandsWithReset
+2019-11-04 12:12:01.904 [0] MaintainBackup
+2019-11-04 12:12:01.904 [0] MaintainBackup done
+2019-11-04 12:12:01.904 [0] Backup Current Session
+2019-11-04 12:12:01.912 [0] ResetFile
+2019-11-04 12:12:01.912 [0] Truncate
+2019-11-04 12:12:01.913 [0] ResetFile done
+2019-11-04 12:12:01.913 [0] AppendCommandsToFile
+2019-11-04 12:12:01.918 [0] AppendCommandsToFile done
+2019-11-04 12:12:01.953 [0] MaintainBackup
+2019-11-04 12:12:01.953 [3] MaintainBackup
+2019-11-04 12:12:01.954 [0] MaintainBackup done
+2019-11-04 12:12:01.954 [0] AppendCommands done
+2019-11-04 12:12:01.954 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:12:01.954 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:13:17.566 [273] Perform Save
+2019-11-04 12:13:17.566 [273] AppendCommandsWithReset
+2019-11-04 12:13:17.566 [0] MaintainBackup
+2019-11-04 12:13:17.566 [0] MaintainBackup done
+2019-11-04 12:13:17.566 [0] Backup Current Session
+2019-11-04 12:13:17.567 [0] ResetFile
+2019-11-04 12:13:17.567 [0] Truncate
+2019-11-04 12:13:17.568 [0] ResetFile done
+2019-11-04 12:13:17.568 [0] AppendCommandsToFile
+2019-11-04 12:13:17.573 [0] AppendCommandsToFile done
+2019-11-04 12:13:17.611 [0] MaintainBackup
+2019-11-04 12:13:17.611 [3] MaintainBackup
+2019-11-04 12:13:17.611 [0] MaintainBackup done
+2019-11-04 12:13:17.611 [0] AppendCommands done
+2019-11-04 12:13:17.611 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:13:17.611 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:13:23.061 [274] Perform Save
+2019-11-04 12:13:23.061 [274] AppendCommandsWithReset
+2019-11-04 12:13:23.061 [0] MaintainBackup
+2019-11-04 12:13:23.061 [0] MaintainBackup done
+2019-11-04 12:13:23.061 [0] Backup Current Session
+2019-11-04 12:13:23.063 [0] ResetFile
+2019-11-04 12:13:23.063 [0] Truncate
+2019-11-04 12:13:23.064 [0] ResetFile done
+2019-11-04 12:13:23.064 [0] AppendCommandsToFile
+2019-11-04 12:13:23.066 [0] AppendCommandsToFile done
+2019-11-04 12:13:23.092 [0] MaintainBackup
+2019-11-04 12:13:23.092 [3] MaintainBackup
+2019-11-04 12:13:23.092 [0] MaintainBackup done
+2019-11-04 12:13:23.092 [0] AppendCommands done
+2019-11-04 12:13:23.093 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:13:23.093 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:13:31.609 [273] Perform Save
+2019-11-04 12:13:31.609 [273] AppendCommandsWithReset
+2019-11-04 12:13:31.609 [0] MaintainBackup
+2019-11-04 12:13:31.609 [0] MaintainBackup done
+2019-11-04 12:13:31.609 [0] Backup Current Session
+2019-11-04 12:13:31.610 [0] ResetFile
+2019-11-04 12:13:31.610 [0] Truncate
+2019-11-04 12:13:31.611 [0] ResetFile done
+2019-11-04 12:13:31.611 [0] AppendCommandsToFile
+2019-11-04 12:13:31.615 [0] AppendCommandsToFile done
+2019-11-04 12:13:31.641 [0] MaintainBackup
+2019-11-04 12:13:31.641 [3] MaintainBackup
+2019-11-04 12:13:31.641 [0] MaintainBackup done
+2019-11-04 12:13:31.641 [0] AppendCommands done
+2019-11-04 12:13:31.641 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:13:31.641 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:13:45.063 [273] Perform Save
+2019-11-04 12:13:45.063 [273] AppendCommandsWithReset
+2019-11-04 12:13:45.063 [0] MaintainBackup
+2019-11-04 12:13:45.063 [0] MaintainBackup done
+2019-11-04 12:13:45.063 [0] Backup Current Session
+2019-11-04 12:13:45.064 [0] ResetFile
+2019-11-04 12:13:45.064 [0] Truncate
+2019-11-04 12:13:45.064 [0] ResetFile done
+2019-11-04 12:13:45.064 [0] AppendCommandsToFile
+2019-11-04 12:13:45.069 [0] AppendCommandsToFile done
+2019-11-04 12:13:45.097 [0] MaintainBackup
+2019-11-04 12:13:45.097 [3] MaintainBackup
+2019-11-04 12:13:45.098 [0] MaintainBackup done
+2019-11-04 12:13:45.098 [0] AppendCommands done
+2019-11-04 12:13:45.098 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:13:45.098 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:13:55.091 [273] Perform Save
+2019-11-04 12:13:55.091 [273] AppendCommandsWithReset
+2019-11-04 12:13:55.091 [0] MaintainBackup
+2019-11-04 12:13:55.091 [0] MaintainBackup done
+2019-11-04 12:13:55.091 [0] Backup Current Session
+2019-11-04 12:13:55.092 [0] ResetFile
+2019-11-04 12:13:55.092 [0] Truncate
+2019-11-04 12:13:55.092 [0] ResetFile done
+2019-11-04 12:13:55.092 [0] AppendCommandsToFile
+2019-11-04 12:13:55.097 [0] AppendCommandsToFile done
+2019-11-04 12:13:55.123 [0] MaintainBackup
+2019-11-04 12:13:55.123 [3] MaintainBackup
+2019-11-04 12:13:55.123 [0] MaintainBackup done
+2019-11-04 12:13:55.123 [0] AppendCommands done
+2019-11-04 12:13:55.123 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:13:55.123 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:13:59.908 [273] Perform Save
+2019-11-04 12:13:59.908 [273] AppendCommandsWithReset
+2019-11-04 12:13:59.908 [0] MaintainBackup
+2019-11-04 12:13:59.908 [0] MaintainBackup done
+2019-11-04 12:13:59.908 [0] Backup Current Session
+2019-11-04 12:13:59.909 [0] ResetFile
+2019-11-04 12:13:59.909 [0] Truncate
+2019-11-04 12:13:59.909 [0] ResetFile done
+2019-11-04 12:13:59.909 [0] AppendCommandsToFile
+2019-11-04 12:13:59.914 [0] AppendCommandsToFile done
+2019-11-04 12:13:59.943 [0] MaintainBackup
+2019-11-04 12:13:59.943 [3] MaintainBackup
+2019-11-04 12:13:59.943 [0] MaintainBackup done
+2019-11-04 12:13:59.943 [0] AppendCommands done
+2019-11-04 12:13:59.943 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:13:59.943 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:14:08.118 [273] Perform Save
+2019-11-04 12:14:08.118 [273] AppendCommandsWithReset
+2019-11-04 12:14:08.118 [0] MaintainBackup
+2019-11-04 12:14:08.118 [0] MaintainBackup done
+2019-11-04 12:14:08.118 [0] Backup Current Session
+2019-11-04 12:14:08.119 [0] ResetFile
+2019-11-04 12:14:08.119 [0] Truncate
+2019-11-04 12:14:08.119 [0] ResetFile done
+2019-11-04 12:14:08.119 [0] AppendCommandsToFile
+2019-11-04 12:14:08.121 [0] AppendCommandsToFile done
+2019-11-04 12:14:08.141 [0] MaintainBackup
+2019-11-04 12:14:08.141 [3] MaintainBackup
+2019-11-04 12:14:08.141 [0] MaintainBackup done
+2019-11-04 12:14:08.141 [0] AppendCommands done
+2019-11-04 12:14:08.141 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:14:08.141 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:14:11.190 [273] Perform Save
+2019-11-04 12:14:11.190 [273] AppendCommandsWithReset
+2019-11-04 12:14:11.190 [0] MaintainBackup
+2019-11-04 12:14:11.190 [0] MaintainBackup done
+2019-11-04 12:14:11.190 [0] Backup Current Session
+2019-11-04 12:14:11.191 [0] ResetFile
+2019-11-04 12:14:11.191 [0] Truncate
+2019-11-04 12:14:11.191 [0] ResetFile done
+2019-11-04 12:14:11.191 [0] AppendCommandsToFile
+2019-11-04 12:14:11.193 [0] AppendCommandsToFile done
+2019-11-04 12:14:11.218 [0] MaintainBackup
+2019-11-04 12:14:11.218 [3] MaintainBackup
+2019-11-04 12:14:11.219 [0] MaintainBackup done
+2019-11-04 12:14:11.219 [0] AppendCommands done
+2019-11-04 12:14:11.219 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:14:11.219 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:14:18.974 [273] Perform Save
+2019-11-04 12:14:18.975 [273] AppendCommandsWithReset
+2019-11-04 12:14:18.975 [0] MaintainBackup
+2019-11-04 12:14:18.975 [0] MaintainBackup done
+2019-11-04 12:14:18.975 [0] Backup Current Session
+2019-11-04 12:14:18.976 [0] ResetFile
+2019-11-04 12:14:18.976 [0] Truncate
+2019-11-04 12:14:18.976 [0] ResetFile done
+2019-11-04 12:14:18.976 [0] AppendCommandsToFile
+2019-11-04 12:14:18.979 [0] AppendCommandsToFile done
+2019-11-04 12:14:19.000 [0] MaintainBackup
+2019-11-04 12:14:19.000 [3] MaintainBackup
+2019-11-04 12:14:19.001 [0] MaintainBackup done
+2019-11-04 12:14:19.001 [0] AppendCommands done
+2019-11-04 12:14:19.001 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:14:19.001 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:14:27.714 [273] Perform Save
+2019-11-04 12:14:27.715 [273] AppendCommandsWithReset
+2019-11-04 12:14:27.715 [0] MaintainBackup
+2019-11-04 12:14:27.715 [0] MaintainBackup done
+2019-11-04 12:14:27.715 [0] Backup Current Session
+2019-11-04 12:14:27.716 [0] ResetFile
+2019-11-04 12:14:27.716 [0] Truncate
+2019-11-04 12:14:27.716 [0] ResetFile done
+2019-11-04 12:14:27.716 [0] AppendCommandsToFile
+2019-11-04 12:14:27.721 [0] AppendCommandsToFile done
+2019-11-04 12:14:27.755 [0] MaintainBackup
+2019-11-04 12:14:27.755 [3] MaintainBackup
+2019-11-04 12:14:27.755 [0] MaintainBackup done
+2019-11-04 12:14:27.755 [0] AppendCommands done
+2019-11-04 12:14:27.755 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:14:27.755 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:14:47.273 [273] Perform Save
+2019-11-04 12:14:47.273 [273] AppendCommandsWithReset
+2019-11-04 12:14:47.273 [0] MaintainBackup
+2019-11-04 12:14:47.273 [0] MaintainBackup done
+2019-11-04 12:14:47.273 [0] Backup Current Session
+2019-11-04 12:14:47.274 [0] ResetFile
+2019-11-04 12:14:47.274 [0] Truncate
+2019-11-04 12:14:47.274 [0] ResetFile done
+2019-11-04 12:14:47.274 [0] AppendCommandsToFile
+2019-11-04 12:14:47.276 [0] AppendCommandsToFile done
+2019-11-04 12:14:47.306 [0] MaintainBackup
+2019-11-04 12:14:47.306 [3] MaintainBackup
+2019-11-04 12:14:47.306 [0] MaintainBackup done
+2019-11-04 12:14:47.306 [0] AppendCommands done
+2019-11-04 12:14:47.307 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:14:47.307 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:14:51.239 [273] Perform Save
+2019-11-04 12:14:51.239 [273] AppendCommandsWithReset
+2019-11-04 12:14:51.239 [0] MaintainBackup
+2019-11-04 12:14:51.239 [0] MaintainBackup done
+2019-11-04 12:14:51.239 [0] Backup Current Session
+2019-11-04 12:14:51.240 [0] ResetFile
+2019-11-04 12:14:51.240 [0] Truncate
+2019-11-04 12:14:51.240 [0] ResetFile done
+2019-11-04 12:14:51.240 [0] AppendCommandsToFile
+2019-11-04 12:14:51.243 [0] AppendCommandsToFile done
+2019-11-04 12:14:51.270 [0] MaintainBackup
+2019-11-04 12:14:51.270 [3] MaintainBackup
+2019-11-04 12:14:51.270 [0] MaintainBackup done
+2019-11-04 12:14:51.270 [0] AppendCommands done
+2019-11-04 12:14:51.270 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:14:51.270 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:14:54.683 [274] Perform Save
+2019-11-04 12:14:54.683 [274] AppendCommandsWithReset
+2019-11-04 12:14:54.683 [0] MaintainBackup
+2019-11-04 12:14:54.683 [0] MaintainBackup done
+2019-11-04 12:14:54.683 [0] Backup Current Session
+2019-11-04 12:14:54.684 [0] ResetFile
+2019-11-04 12:14:54.684 [0] Truncate
+2019-11-04 12:14:54.685 [0] ResetFile done
+2019-11-04 12:14:54.685 [0] AppendCommandsToFile
+2019-11-04 12:14:54.690 [0] AppendCommandsToFile done
+2019-11-04 12:14:54.710 [0] MaintainBackup
+2019-11-04 12:14:54.710 [3] MaintainBackup
+2019-11-04 12:14:54.711 [0] MaintainBackup done
+2019-11-04 12:14:54.711 [0] AppendCommands done
+2019-11-04 12:14:54.711 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:14:54.711 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:12.163 [273] Perform Save
+2019-11-04 12:15:12.163 [273] AppendCommandsWithReset
+2019-11-04 12:15:12.163 [0] MaintainBackup
+2019-11-04 12:15:12.163 [0] MaintainBackup done
+2019-11-04 12:15:12.163 [0] Backup Current Session
+2019-11-04 12:15:12.164 [0] ResetFile
+2019-11-04 12:15:12.164 [0] Truncate
+2019-11-04 12:15:12.164 [0] ResetFile done
+2019-11-04 12:15:12.164 [0] AppendCommandsToFile
+2019-11-04 12:15:12.169 [0] AppendCommandsToFile done
+2019-11-04 12:15:12.202 [0] MaintainBackup
+2019-11-04 12:15:12.202 [3] MaintainBackup
+2019-11-04 12:15:12.202 [0] MaintainBackup done
+2019-11-04 12:15:12.202 [0] AppendCommands done
+2019-11-04 12:15:12.202 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:12.202 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:15.437 [273] Perform Save
+2019-11-04 12:15:15.437 [273] AppendCommandsWithReset
+2019-11-04 12:15:15.437 [0] MaintainBackup
+2019-11-04 12:15:15.437 [0] MaintainBackup done
+2019-11-04 12:15:15.437 [0] Backup Current Session
+2019-11-04 12:15:15.438 [0] ResetFile
+2019-11-04 12:15:15.438 [0] Truncate
+2019-11-04 12:15:15.438 [0] ResetFile done
+2019-11-04 12:15:15.438 [0] AppendCommandsToFile
+2019-11-04 12:15:15.440 [0] AppendCommandsToFile done
+2019-11-04 12:15:15.470 [0] MaintainBackup
+2019-11-04 12:15:15.470 [3] MaintainBackup
+2019-11-04 12:15:15.471 [0] MaintainBackup done
+2019-11-04 12:15:15.471 [0] AppendCommands done
+2019-11-04 12:15:15.471 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:15.471 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:29.221 [273] Perform Save
+2019-11-04 12:15:29.221 [273] AppendCommandsWithReset
+2019-11-04 12:15:29.221 [0] MaintainBackup
+2019-11-04 12:15:29.221 [0] MaintainBackup done
+2019-11-04 12:15:29.221 [0] Backup Current Session
+2019-11-04 12:15:29.222 [0] ResetFile
+2019-11-04 12:15:29.222 [0] Truncate
+2019-11-04 12:15:29.222 [0] ResetFile done
+2019-11-04 12:15:29.222 [0] AppendCommandsToFile
+2019-11-04 12:15:29.227 [0] AppendCommandsToFile done
+2019-11-04 12:15:29.245 [0] MaintainBackup
+2019-11-04 12:15:29.245 [3] MaintainBackup
+2019-11-04 12:15:29.246 [0] MaintainBackup done
+2019-11-04 12:15:29.246 [0] AppendCommands done
+2019-11-04 12:15:29.246 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:29.246 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:33.475 [273] Perform Save
+2019-11-04 12:15:33.475 [273] AppendCommandsWithReset
+2019-11-04 12:15:33.475 [0] MaintainBackup
+2019-11-04 12:15:33.475 [0] MaintainBackup done
+2019-11-04 12:15:33.475 [0] Backup Current Session
+2019-11-04 12:15:33.477 [0] ResetFile
+2019-11-04 12:15:33.477 [0] Truncate
+2019-11-04 12:15:33.477 [0] ResetFile done
+2019-11-04 12:15:33.477 [0] AppendCommandsToFile
+2019-11-04 12:15:33.482 [0] AppendCommandsToFile done
+2019-11-04 12:15:33.516 [0] MaintainBackup
+2019-11-04 12:15:33.516 [3] MaintainBackup
+2019-11-04 12:15:33.516 [0] MaintainBackup done
+2019-11-04 12:15:33.516 [0] AppendCommands done
+2019-11-04 12:15:33.517 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:33.517 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:43.746 [273] Perform Save
+2019-11-04 12:15:43.746 [273] AppendCommandsWithReset
+2019-11-04 12:15:43.746 [0] MaintainBackup
+2019-11-04 12:15:43.746 [0] MaintainBackup done
+2019-11-04 12:15:43.746 [0] Backup Current Session
+2019-11-04 12:15:43.748 [0] ResetFile
+2019-11-04 12:15:43.748 [0] Truncate
+2019-11-04 12:15:43.748 [0] ResetFile done
+2019-11-04 12:15:43.748 [0] AppendCommandsToFile
+2019-11-04 12:15:43.752 [0] AppendCommandsToFile done
+2019-11-04 12:15:43.772 [0] MaintainBackup
+2019-11-04 12:15:43.772 [3] MaintainBackup
+2019-11-04 12:15:43.772 [0] MaintainBackup done
+2019-11-04 12:15:43.772 [0] AppendCommands done
+2019-11-04 12:15:43.772 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:43.772 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:46.351 [282] Perform Save
+2019-11-04 12:15:46.351 [282] AppendCommandsWithReset
+2019-11-04 12:15:46.351 [0] MaintainBackup
+2019-11-04 12:15:46.351 [0] MaintainBackup done
+2019-11-04 12:15:46.351 [0] Backup Current Session
+2019-11-04 12:15:46.352 [0] ResetFile
+2019-11-04 12:15:46.352 [0] Truncate
+2019-11-04 12:15:46.352 [0] ResetFile done
+2019-11-04 12:15:46.352 [0] AppendCommandsToFile
+2019-11-04 12:15:46.356 [0] AppendCommandsToFile done
+2019-11-04 12:15:46.375 [0] MaintainBackup
+2019-11-04 12:15:46.375 [3] MaintainBackup
+2019-11-04 12:15:46.375 [0] MaintainBackup done
+2019-11-04 12:15:46.375 [0] AppendCommands done
+2019-11-04 12:15:46.375 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:46.375 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:50.614 [282] Perform Save
+2019-11-04 12:15:50.614 [282] AppendCommandsWithReset
+2019-11-04 12:15:50.614 [0] MaintainBackup
+2019-11-04 12:15:50.614 [0] MaintainBackup done
+2019-11-04 12:15:50.614 [0] Backup Current Session
+2019-11-04 12:15:50.615 [0] ResetFile
+2019-11-04 12:15:50.615 [0] Truncate
+2019-11-04 12:15:50.615 [0] ResetFile done
+2019-11-04 12:15:50.615 [0] AppendCommandsToFile
+2019-11-04 12:15:50.621 [0] AppendCommandsToFile done
+2019-11-04 12:15:50.648 [0] MaintainBackup
+2019-11-04 12:15:50.648 [3] MaintainBackup
+2019-11-04 12:15:50.648 [0] MaintainBackup done
+2019-11-04 12:15:50.648 [0] AppendCommands done
+2019-11-04 12:15:50.648 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:50.648 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:15:58.190 [282] Perform Save
+2019-11-04 12:15:58.191 [282] AppendCommandsWithReset
+2019-11-04 12:15:58.191 [0] MaintainBackup
+2019-11-04 12:15:58.191 [0] MaintainBackup done
+2019-11-04 12:15:58.191 [0] Backup Current Session
+2019-11-04 12:15:58.192 [0] ResetFile
+2019-11-04 12:15:58.192 [0] Truncate
+2019-11-04 12:15:58.192 [0] ResetFile done
+2019-11-04 12:15:58.192 [0] AppendCommandsToFile
+2019-11-04 12:15:58.197 [0] AppendCommandsToFile done
+2019-11-04 12:15:58.220 [0] MaintainBackup
+2019-11-04 12:15:58.220 [3] MaintainBackup
+2019-11-04 12:15:58.220 [0] MaintainBackup done
+2019-11-04 12:15:58.220 [0] AppendCommands done
+2019-11-04 12:15:58.220 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:15:58.220 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:16:05.473 [6] AppendCommands
+2019-11-04 12:16:05.473 [0] MaintainBackup
+2019-11-04 12:16:05.473 [0] MaintainBackup done
+2019-11-04 12:16:05.473 [0] AppendCommandsToFile
+2019-11-04 12:16:05.473 [0] AppendCommandsToFile done
+2019-11-04 12:16:05.473 [0] AppendCommands done
+2019-11-04 12:16:26.719 [0] Flush
+2019-11-04 12:16:26.719 [0] MaintainBackup
+2019-11-04 12:16:26.719 [0] MaintainBackup done
+2019-11-04 12:16:26.719 [0] Flush done
+2019-11-04 12:17:20.656 [260] Perform Save
+2019-11-04 12:17:20.656 [260] AppendCommandsWithReset
+2019-11-04 12:17:20.656 [0] MaintainBackup
+2019-11-04 12:17:20.656 [0] MaintainBackup done
+2019-11-04 12:17:20.656 [0] Backup Current Session
+2019-11-04 12:17:20.662 [0] ResetFile
+2019-11-04 12:17:20.662 [0] Truncate
+2019-11-04 12:17:20.662 [0] ResetFile done
+2019-11-04 12:17:20.662 [0] AppendCommandsToFile
+2019-11-04 12:17:20.666 [0] AppendCommandsToFile done
+2019-11-04 12:17:20.683 [0] MaintainBackup
+2019-11-04 12:17:20.683 [3] MaintainBackup
+2019-11-04 12:17:20.683 [0] MaintainBackup done
+2019-11-04 12:17:20.683 [0] AppendCommands done
+2019-11-04 12:17:20.684 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:17:20.684 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:17:29.046 [259] Perform Save
+2019-11-04 12:17:29.046 [259] AppendCommandsWithReset
+2019-11-04 12:17:29.046 [0] MaintainBackup
+2019-11-04 12:17:29.046 [0] MaintainBackup done
+2019-11-04 12:17:29.046 [0] Backup Current Session
+2019-11-04 12:17:29.047 [0] ResetFile
+2019-11-04 12:17:29.047 [0] Truncate
+2019-11-04 12:17:29.047 [0] ResetFile done
+2019-11-04 12:17:29.047 [0] AppendCommandsToFile
+2019-11-04 12:17:29.049 [0] AppendCommandsToFile done
+2019-11-04 12:17:29.070 [0] MaintainBackup
+2019-11-04 12:17:29.070 [3] MaintainBackup
+2019-11-04 12:17:29.071 [0] MaintainBackup done
+2019-11-04 12:17:29.071 [0] AppendCommands done
+2019-11-04 12:17:29.071 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:17:29.071 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:17:42.152 [259] Perform Save
+2019-11-04 12:17:42.152 [259] AppendCommandsWithReset
+2019-11-04 12:17:42.152 [0] MaintainBackup
+2019-11-04 12:17:42.152 [0] MaintainBackup done
+2019-11-04 12:17:42.152 [0] Backup Current Session
+2019-11-04 12:17:42.153 [0] ResetFile
+2019-11-04 12:17:42.153 [0] Truncate
+2019-11-04 12:17:42.153 [0] ResetFile done
+2019-11-04 12:17:42.153 [0] AppendCommandsToFile
+2019-11-04 12:17:42.156 [0] AppendCommandsToFile done
+2019-11-04 12:17:42.179 [0] MaintainBackup
+2019-11-04 12:17:42.179 [3] MaintainBackup
+2019-11-04 12:17:42.179 [0] MaintainBackup done
+2019-11-04 12:17:42.179 [0] AppendCommands done
+2019-11-04 12:17:42.179 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:17:42.179 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:17:48.574 [259] Perform Save
+2019-11-04 12:17:48.574 [259] AppendCommandsWithReset
+2019-11-04 12:17:48.574 [0] MaintainBackup
+2019-11-04 12:17:48.574 [0] MaintainBackup done
+2019-11-04 12:17:48.574 [0] Backup Current Session
+2019-11-04 12:17:48.575 [0] ResetFile
+2019-11-04 12:17:48.575 [0] Truncate
+2019-11-04 12:17:48.575 [0] ResetFile done
+2019-11-04 12:17:48.575 [0] AppendCommandsToFile
+2019-11-04 12:17:48.580 [0] AppendCommandsToFile done
+2019-11-04 12:17:48.597 [0] MaintainBackup
+2019-11-04 12:17:48.597 [3] MaintainBackup
+2019-11-04 12:17:48.598 [0] MaintainBackup done
+2019-11-04 12:17:48.598 [0] AppendCommands done
+2019-11-04 12:17:48.598 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:17:48.598 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:17:59.530 [259] Perform Save
+2019-11-04 12:17:59.530 [259] AppendCommandsWithReset
+2019-11-04 12:17:59.530 [0] MaintainBackup
+2019-11-04 12:17:59.530 [0] MaintainBackup done
+2019-11-04 12:17:59.530 [0] Backup Current Session
+2019-11-04 12:17:59.531 [0] ResetFile
+2019-11-04 12:17:59.531 [0] Truncate
+2019-11-04 12:17:59.531 [0] ResetFile done
+2019-11-04 12:17:59.531 [0] AppendCommandsToFile
+2019-11-04 12:17:59.533 [0] AppendCommandsToFile done
+2019-11-04 12:17:59.556 [0] MaintainBackup
+2019-11-04 12:17:59.556 [3] MaintainBackup
+2019-11-04 12:17:59.557 [0] MaintainBackup done
+2019-11-04 12:17:59.557 [0] AppendCommands done
+2019-11-04 12:17:59.557 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:17:59.557 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:18:10.760 [259] Perform Save
+2019-11-04 12:18:10.760 [259] AppendCommandsWithReset
+2019-11-04 12:18:10.760 [0] MaintainBackup
+2019-11-04 12:18:10.760 [0] MaintainBackup done
+2019-11-04 12:18:10.760 [0] Backup Current Session
+2019-11-04 12:18:10.761 [0] ResetFile
+2019-11-04 12:18:10.761 [0] Truncate
+2019-11-04 12:18:10.761 [0] ResetFile done
+2019-11-04 12:18:10.761 [0] AppendCommandsToFile
+2019-11-04 12:18:10.765 [0] AppendCommandsToFile done
+2019-11-04 12:18:10.783 [0] MaintainBackup
+2019-11-04 12:18:10.783 [3] MaintainBackup
+2019-11-04 12:18:10.783 [0] MaintainBackup done
+2019-11-04 12:18:10.783 [0] AppendCommands done
+2019-11-04 12:18:10.783 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:18:10.783 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:18:18.157 [259] Perform Save
+2019-11-04 12:18:18.157 [259] AppendCommandsWithReset
+2019-11-04 12:18:18.157 [0] MaintainBackup
+2019-11-04 12:18:18.157 [0] MaintainBackup done
+2019-11-04 12:18:18.157 [0] Backup Current Session
+2019-11-04 12:18:18.165 [0] ResetFile
+2019-11-04 12:18:18.165 [0] Truncate
+2019-11-04 12:18:18.165 [0] ResetFile done
+2019-11-04 12:18:18.165 [0] AppendCommandsToFile
+2019-11-04 12:18:18.170 [0] AppendCommandsToFile done
+2019-11-04 12:18:18.194 [0] MaintainBackup
+2019-11-04 12:18:18.194 [3] MaintainBackup
+2019-11-04 12:18:18.194 [0] MaintainBackup done
+2019-11-04 12:18:18.194 [0] AppendCommands done
+2019-11-04 12:18:18.195 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:18:18.195 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:18:28.324 [260] Perform Save
+2019-11-04 12:18:28.324 [260] AppendCommandsWithReset
+2019-11-04 12:18:28.324 [0] MaintainBackup
+2019-11-04 12:18:28.324 [0] MaintainBackup done
+2019-11-04 12:18:28.324 [0] Backup Current Session
+2019-11-04 12:18:28.325 [0] ResetFile
+2019-11-04 12:18:28.325 [0] Truncate
+2019-11-04 12:18:28.326 [0] ResetFile done
+2019-11-04 12:18:28.326 [0] AppendCommandsToFile
+2019-11-04 12:18:28.330 [0] AppendCommandsToFile done
+2019-11-04 12:18:28.351 [0] MaintainBackup
+2019-11-04 12:18:28.351 [3] MaintainBackup
+2019-11-04 12:18:28.352 [0] MaintainBackup done
+2019-11-04 12:18:28.352 [0] AppendCommands done
+2019-11-04 12:18:28.352 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:18:28.352 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:18:44.718 [259] Perform Save
+2019-11-04 12:18:44.718 [259] AppendCommandsWithReset
+2019-11-04 12:18:44.718 [0] MaintainBackup
+2019-11-04 12:18:44.718 [0] MaintainBackup done
+2019-11-04 12:18:44.718 [0] Backup Current Session
+2019-11-04 12:18:44.719 [0] ResetFile
+2019-11-04 12:18:44.719 [0] Truncate
+2019-11-04 12:18:44.719 [0] ResetFile done
+2019-11-04 12:18:44.719 [0] AppendCommandsToFile
+2019-11-04 12:18:44.721 [0] AppendCommandsToFile done
+2019-11-04 12:18:44.744 [0] MaintainBackup
+2019-11-04 12:18:44.744 [3] MaintainBackup
+2019-11-04 12:18:44.745 [0] MaintainBackup done
+2019-11-04 12:18:44.745 [0] AppendCommands done
+2019-11-04 12:18:44.745 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:18:44.745 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:18:52.672 [259] Perform Save
+2019-11-04 12:18:52.672 [259] AppendCommandsWithReset
+2019-11-04 12:18:52.672 [0] MaintainBackup
+2019-11-04 12:18:52.672 [0] MaintainBackup done
+2019-11-04 12:18:52.672 [0] Backup Current Session
+2019-11-04 12:18:52.673 [0] ResetFile
+2019-11-04 12:18:52.673 [0] Truncate
+2019-11-04 12:18:52.673 [0] ResetFile done
+2019-11-04 12:18:52.673 [0] AppendCommandsToFile
+2019-11-04 12:18:52.676 [0] AppendCommandsToFile done
+2019-11-04 12:18:52.704 [0] MaintainBackup
+2019-11-04 12:18:52.704 [3] MaintainBackup
+2019-11-04 12:18:52.704 [0] MaintainBackup done
+2019-11-04 12:18:52.704 [0] AppendCommands done
+2019-11-04 12:18:52.705 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:18:52.705 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:18:58.004 [259] Perform Save
+2019-11-04 12:18:58.004 [259] AppendCommandsWithReset
+2019-11-04 12:18:58.004 [0] MaintainBackup
+2019-11-04 12:18:58.004 [0] MaintainBackup done
+2019-11-04 12:18:58.004 [0] Backup Current Session
+2019-11-04 12:18:58.005 [0] ResetFile
+2019-11-04 12:18:58.005 [0] Truncate
+2019-11-04 12:18:58.005 [0] ResetFile done
+2019-11-04 12:18:58.005 [0] AppendCommandsToFile
+2019-11-04 12:18:58.007 [0] AppendCommandsToFile done
+2019-11-04 12:18:58.028 [0] MaintainBackup
+2019-11-04 12:18:58.028 [3] MaintainBackup
+2019-11-04 12:18:58.028 [0] MaintainBackup done
+2019-11-04 12:18:58.028 [0] AppendCommands done
+2019-11-04 12:18:58.029 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:18:58.029 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:19:02.367 [259] Perform Save
+2019-11-04 12:19:02.368 [259] AppendCommandsWithReset
+2019-11-04 12:19:02.368 [0] MaintainBackup
+2019-11-04 12:19:02.368 [0] MaintainBackup done
+2019-11-04 12:19:02.368 [0] Backup Current Session
+2019-11-04 12:19:02.369 [0] ResetFile
+2019-11-04 12:19:02.369 [0] Truncate
+2019-11-04 12:19:02.369 [0] ResetFile done
+2019-11-04 12:19:02.369 [0] AppendCommandsToFile
+2019-11-04 12:19:02.374 [0] AppendCommandsToFile done
+2019-11-04 12:19:02.397 [0] MaintainBackup
+2019-11-04 12:19:02.397 [3] MaintainBackup
+2019-11-04 12:19:02.397 [0] MaintainBackup done
+2019-11-04 12:19:02.397 [0] AppendCommands done
+2019-11-04 12:19:02.397 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:19:02.397 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:19:06.237 [259] Perform Save
+2019-11-04 12:19:06.237 [259] AppendCommandsWithReset
+2019-11-04 12:19:06.237 [0] MaintainBackup
+2019-11-04 12:19:06.237 [0] MaintainBackup done
+2019-11-04 12:19:06.237 [0] Backup Current Session
+2019-11-04 12:19:06.238 [0] ResetFile
+2019-11-04 12:19:06.238 [0] Truncate
+2019-11-04 12:19:06.238 [0] ResetFile done
+2019-11-04 12:19:06.238 [0] AppendCommandsToFile
+2019-11-04 12:19:06.240 [0] AppendCommandsToFile done
+2019-11-04 12:19:06.263 [0] MaintainBackup
+2019-11-04 12:19:06.263 [3] MaintainBackup
+2019-11-04 12:19:06.263 [0] MaintainBackup done
+2019-11-04 12:19:06.263 [0] AppendCommands done
+2019-11-04 12:19:06.263 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:19:06.263 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:19:11.052 [259] Perform Save
+2019-11-04 12:19:11.053 [259] AppendCommandsWithReset
+2019-11-04 12:19:11.053 [0] MaintainBackup
+2019-11-04 12:19:11.053 [0] MaintainBackup done
+2019-11-04 12:19:11.053 [0] Backup Current Session
+2019-11-04 12:19:11.053 [0] ResetFile
+2019-11-04 12:19:11.053 [0] Truncate
+2019-11-04 12:19:11.053 [0] ResetFile done
+2019-11-04 12:19:11.053 [0] AppendCommandsToFile
+2019-11-04 12:19:11.056 [0] AppendCommandsToFile done
+2019-11-04 12:19:11.078 [0] MaintainBackup
+2019-11-04 12:19:11.078 [3] MaintainBackup
+2019-11-04 12:19:11.078 [0] MaintainBackup done
+2019-11-04 12:19:11.078 [0] AppendCommands done
+2019-11-04 12:19:11.079 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:19:11.079 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:19:25.824 [259] Perform Save
+2019-11-04 12:19:25.824 [259] AppendCommandsWithReset
+2019-11-04 12:19:25.824 [0] MaintainBackup
+2019-11-04 12:19:25.824 [0] MaintainBackup done
+2019-11-04 12:19:25.824 [0] Backup Current Session
+2019-11-04 12:19:25.826 [0] ResetFile
+2019-11-04 12:19:25.826 [0] Truncate
+2019-11-04 12:19:25.826 [0] ResetFile done
+2019-11-04 12:19:25.826 [0] AppendCommandsToFile
+2019-11-04 12:19:25.831 [0] AppendCommandsToFile done
+2019-11-04 12:19:25.850 [0] MaintainBackup
+2019-11-04 12:19:25.850 [3] MaintainBackup
+2019-11-04 12:19:25.850 [0] MaintainBackup done
+2019-11-04 12:19:25.850 [0] AppendCommands done
+2019-11-04 12:19:25.850 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:19:25.850 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:19:34.038 [259] Perform Save
+2019-11-04 12:19:34.038 [259] AppendCommandsWithReset
+2019-11-04 12:19:34.038 [0] MaintainBackup
+2019-11-04 12:19:34.038 [0] MaintainBackup done
+2019-11-04 12:19:34.038 [0] Backup Current Session
+2019-11-04 12:19:34.039 [0] ResetFile
+2019-11-04 12:19:34.039 [0] Truncate
+2019-11-04 12:19:34.039 [0] ResetFile done
+2019-11-04 12:19:34.039 [0] AppendCommandsToFile
+2019-11-04 12:19:34.044 [0] AppendCommandsToFile done
+2019-11-04 12:19:34.067 [0] MaintainBackup
+2019-11-04 12:19:34.067 [3] MaintainBackup
+2019-11-04 12:19:34.067 [0] MaintainBackup done
+2019-11-04 12:19:34.067 [0] AppendCommands done
+2019-11-04 12:19:34.067 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:19:34.067 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:20:24.399 [260] Perform Save
+2019-11-04 12:20:24.399 [260] AppendCommandsWithReset
+2019-11-04 12:20:24.399 [0] MaintainBackup
+2019-11-04 12:20:24.399 [0] MaintainBackup done
+2019-11-04 12:20:24.399 [0] Backup Current Session
+2019-11-04 12:20:24.400 [0] ResetFile
+2019-11-04 12:20:24.400 [0] Truncate
+2019-11-04 12:20:24.400 [0] ResetFile done
+2019-11-04 12:20:24.400 [0] AppendCommandsToFile
+2019-11-04 12:20:24.402 [0] AppendCommandsToFile done
+2019-11-04 12:20:24.423 [0] MaintainBackup
+2019-11-04 12:20:24.423 [3] MaintainBackup
+2019-11-04 12:20:24.423 [0] MaintainBackup done
+2019-11-04 12:20:24.423 [0] AppendCommands done
+2019-11-04 12:20:24.423 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:20:24.423 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:20:27.949 [259] Perform Save
+2019-11-04 12:20:27.949 [259] AppendCommandsWithReset
+2019-11-04 12:20:27.949 [0] MaintainBackup
+2019-11-04 12:20:27.949 [0] MaintainBackup done
+2019-11-04 12:20:27.949 [0] Backup Current Session
+2019-11-04 12:20:27.950 [0] ResetFile
+2019-11-04 12:20:27.950 [0] Truncate
+2019-11-04 12:20:27.950 [0] ResetFile done
+2019-11-04 12:20:27.950 [0] AppendCommandsToFile
+2019-11-04 12:20:27.954 [0] AppendCommandsToFile done
+2019-11-04 12:20:27.980 [0] MaintainBackup
+2019-11-04 12:20:27.980 [3] MaintainBackup
+2019-11-04 12:20:27.981 [0] MaintainBackup done
+2019-11-04 12:20:27.981 [0] AppendCommands done
+2019-11-04 12:20:27.981 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:20:27.981 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:20:30.812 [259] Perform Save
+2019-11-04 12:20:30.812 [259] AppendCommandsWithReset
+2019-11-04 12:20:30.812 [0] MaintainBackup
+2019-11-04 12:20:30.812 [0] MaintainBackup done
+2019-11-04 12:20:30.812 [0] Backup Current Session
+2019-11-04 12:20:30.817 [0] ResetFile
+2019-11-04 12:20:30.817 [0] Truncate
+2019-11-04 12:20:30.817 [0] ResetFile done
+2019-11-04 12:20:30.817 [0] AppendCommandsToFile
+2019-11-04 12:20:30.820 [0] AppendCommandsToFile done
+2019-11-04 12:20:30.849 [0] MaintainBackup
+2019-11-04 12:20:30.849 [3] MaintainBackup
+2019-11-04 12:20:30.849 [0] MaintainBackup done
+2019-11-04 12:20:30.849 [0] AppendCommands done
+2019-11-04 12:20:30.849 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:20:30.849 [0] RemoveCurrentSessionInvalidMarker done
+2019-11-04 12:20:49.868 [259] Perform Save
+2019-11-04 12:20:49.868 [259] AppendCommandsWithReset
+2019-11-04 12:20:49.868 [0] MaintainBackup
+2019-11-04 12:20:49.868 [0] MaintainBackup done
+2019-11-04 12:20:49.868 [0] Backup Current Session
+2019-11-04 12:20:49.870 [0] ResetFile
+2019-11-04 12:20:49.870 [0] Truncate
+2019-11-04 12:20:49.870 [0] ResetFile done
+2019-11-04 12:20:49.870 [0] AppendCommandsToFile
+2019-11-04 12:20:49.874 [0] AppendCommandsToFile done
+2019-11-04 12:20:49.892 [0] MaintainBackup
+2019-11-04 12:20:49.892 [3] MaintainBackup
+2019-11-04 12:20:49.892 [0] MaintainBackup done
+2019-11-04 12:20:49.892 [0] AppendCommands done
+2019-11-04 12:20:49.892 [0] RemoveCurrentSessionInvalidMarker
+2019-11-04 12:20:49.893 [0] RemoveCurrentSessionInvalidMarker done
